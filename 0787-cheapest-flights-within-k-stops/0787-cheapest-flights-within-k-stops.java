@@ -29,6 +29,7 @@ class Solution {
             int stops=tp[0],currNode=tp[1],currPrice=tp[2];
 
             if(stops>k) continue;
+            
             for(Pair p: graph.get(currNode)){
                 int adjNode=p.first;
                 int reqPrice=p.second;
