@@ -40,9 +40,8 @@ class Solution {
         for(int[] e: edges){
             int u=e[0]-1,v=e[1]-1;
             if(ds.findUlp(u)==ds.findUlp(v)){
-               int[] res=new int[2];
-               res[0]=u+1;res[1]=v+1;
-               ans=res;
+            //    ans=new int[]{u+1,v+1};
+            return e;
             }
             else{
                 ds.unionBySize(u,v);
