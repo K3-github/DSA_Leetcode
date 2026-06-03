@@ -36,17 +36,16 @@ class Solution {
     public int[] findRedundantConnection(int[][] edges) {
         int n=edges.length;
         DisJointSet ds=new DisJointSet(n);
-        int[] ans=new int[2];
+
         for(int[] e: edges){
             int u=e[0]-1,v=e[1]-1;
             if(ds.findUlp(u)==ds.findUlp(v)){
-            //    ans=new int[]{u+1,v+1};
-            return e;
+                return e;
             }
             else{
                 ds.unionBySize(u,v);
             }
         }
-        return ans;
+        return new int[]{-1,-1};
     }
 }
