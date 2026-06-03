@@ -40,7 +40,7 @@ class Solution {
             row=Math.max(row,s[0]);
             col=Math.max(col,s[1]);
         }
-        DisJointSet ds=new DisJointSet(row+col+1);
+        DisJointSet ds=new DisJointSet(row+1+col+1);
         for(int[] s: stones){
             int u=s[0];
             int v=row+s[1]+1;
