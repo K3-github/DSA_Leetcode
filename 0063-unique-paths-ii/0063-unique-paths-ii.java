@@ -4,22 +4,27 @@ class Solution {
         int n=obs[0].length;
 
         if(obs[0][0]==1 || obs[m-1][n-1]==1) return 0;
-
-        int[][] dp=new int[m][n];
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(i==0 && j==0) dp[i][j]=1;
-                else if(obs[i][j]==1){
-                    dp[i][j]=0;
-                }
-                else{
-                    int left=0,up=0;
-                    if(i>0) up=dp[i-1][j];
-                    if(j>0) left=dp[i][j-1];
-                    dp[i][j]=left+up;
-                }
+    
+        int[] prev=new int[n];
+        boolean isObs=false;
+        for(int j=0;j<n;j++){
+            if(isObs==false) prev[j]=1;
+            if(obs[0][j]==1 || isObs==true){
+                prev[j]=0;
+                isObs=true;
             }
         }
-        return dp[m-1][n-1];
+        for(int i=1;i<m;i++){
+            int[] curr=new int[n];
+            for(int j=0;j<n;j++){
+                if(obs[i][j]==1) curr[j]=0;
+                else{
+                    if(j==0) curr[j]=prev[j];
+                    else curr[j]=prev[j]+curr[j-1];
+                }
+            }
+            prev=curr;
+        }
+        return prev[n-1];
     }
 }
