@@ -1,24 +1,27 @@
 class Solution {
-    private int solve(int ind,int amt,int[] c,int[][] dp){
-        if(amt==0) return 1;
-        if(ind<0) return 0;
-        if(dp[ind][amt]!=-1) return dp[ind][amt];
-
-        int w1=0;
-        if(c[ind]<=amt){
-            w1=solve(ind,amt-c[ind],c,dp);
-        }
-        int w2=solve(ind-1,amt,c,dp);
-        return dp[ind][amt]=w1+w2;
-    }
     public int change(int amount, int[] coins) {
         int n=coins.length;
-        int[][] dp=new int[n][amount+1];
-        for(int i=0;i<n;i++){
-            for(int j=0;j<=amount;j++){
-                dp[i][j]=-1;
+        int[] prev=new int[amount+1];
+        Arrays.fill(prev,0);
+        prev[0]=1;
+        for(int amt=1;amt<=amount;amt++){
+            if((coins[0]<=amt) && (amt%coins[0]==0)){
+                 prev[amt]=1;
             }
         }
-        return solve(n-1,amount,coins,dp);
+        for(int ind=1;ind<n;ind++){
+            int[] curr=new int[amount+1];
+            curr[0]=1;
+            for(int amt=1;amt<=amount;amt++){
+                int w1=0;
+                if(coins[ind]<=amt){
+                    w1=curr[amt-coins[ind]];
+                }
+                int w2=prev[amt];
+                curr[amt]=w1+w2;
+            }
+            prev=curr;
+        }
+        return prev[amount];
     }
 }
