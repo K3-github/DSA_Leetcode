@@ -1,28 +1,23 @@
 class Solution {
-    private int solve(int ind,int curr,int sum,int[] nums,int[][] dp){
-        if(curr==sum) return 1;
-        if(ind<0) return 0;
-        if(dp[ind][curr]!=-1) return dp[ind][curr];
-        
-        int w1=0;
-        if(curr+nums[ind]<=sum) w1=solve(ind-1,curr+nums[ind],sum,nums,dp);
-        int w2=solve(ind-1,curr,sum,nums,dp);
-
-        return dp[ind][curr]= (w1 == 1 || w2 == 1) ? 1 : 0;
-    }
     public boolean canPartition(int[] nums) {
         int sum=0;
         int n=nums.length;
         for(int i=0;i<n;i++) sum+=nums[i];
         if(sum%2!=0) return false;
         int req=sum/2;
-        int[][] dp=new int[n][req+1];
-        for(int i=0;i<n;i++){
-            for(int j=0;j<=req;j++){
-                dp[i][j]=-1;
+        boolean[][] dp=new boolean[n][req+1];
+        for(int i=0;i<n;i++) dp[i][0]=false;
+        if(nums[0]<=req){
+            dp[0][nums[0]]=true;
+        }
+        for(int i=1;i<n;i++){
+            for(int curr=1;curr<=req;curr++){
+                boolean w1=false;
+                if(nums[i]<=curr) w1=dp[i-1][curr-nums[i]];
+                boolean w2=dp[i-1][curr];
+                dp[i][curr] = w1 || w2;
             }
         }
-        int ans=solve(n-1,0,req,nums,dp);
-        return ans == 1 ? true : false;
+        return dp[n-1][req];
     }
 }
