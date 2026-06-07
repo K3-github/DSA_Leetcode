@@ -1,28 +1,27 @@
 class Solution {
-    private int solve(int i,int j,String s,String t,int[][] dp){
-        if(j<0) return i+1;
-        if(i<0) return j+1;
-        if(dp[i][j]!=-1) return dp[i][j];
-
-        char ch1=s.charAt(i);
-        char ch2=t.charAt(j);
-        if(ch1==ch2) return dp[i][j]=solve(i-1,j-1,s,t,dp);
-        else{
-            int w1=1+solve(i,j-1,s,t,dp);
-            int w2=1+solve(i-1,j,s,t,dp);
-            int w3=1+solve(i-1,j-1,s,t,dp);
-            return dp[i][j]=Math.min(w1,Math.min(w2,w3));
+    public int minDistance(String s, String t) {
+        int n=s.length();
+        int m=t.length();
+        int[][] dp=new int[n+1][m+1];
+        for(int i=0;i<=n;i++){
+           dp[i][0]=i;
         }
-    }
-    public int minDistance(String word1, String word2) {
-        int n=word1.length();
-        int m=word2.length();
-        int[][] dp=new int[n][m];
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                dp[i][j]=-1;
+        for(int j=0;j<=m;j++){
+           dp[0][j]=j;
+        }
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=m;j++){
+                char ch1=s.charAt(i-1);
+                char ch2=t.charAt(j-1);
+                if(ch1==ch2) dp[i][j]=dp[i-1][j-1];
+                else{
+                    int w1=1+dp[i][j-1];
+                    int w2=1+dp[i-1][j];
+                    int w3=1+dp[i-1][j-1];
+                    dp[i][j]=Math.min(w1,Math.min(w2,w3));
+                }
             }
         }
-        return solve(n-1,m-1,word1,word2,dp);
+        return dp[n][m];
     }
 }
