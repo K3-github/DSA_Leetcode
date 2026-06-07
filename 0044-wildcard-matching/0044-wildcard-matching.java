@@ -24,15 +24,57 @@ class Solution {
          
     }
     public boolean isMatch(String s, String p) {
-        int n=s.length();
-        int m=p.length();
-        int[][] dp=new int[m][n];
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                dp[i][j]=-1;
+
+    int m=s.length();
+    int n=p.length();
+
+    boolean[][] dp=new boolean[m+1][n+1];
+
+    dp[0][0]=true;
+
+    for(int j=1;j<=n;j++){
+
+        boolean flag=true;
+
+        for(int ptr=j;ptr>=1;ptr--){
+
+            if(p.charAt(ptr-1)!='*'){
+                flag=false;
+                break;
             }
         }
-        int ans=solve(m-1,n-1,p,s,dp);
-        return ans==1 ? true : false;
+
+        dp[0][j]=flag;
     }
+
+    for(int i=1;i<=m;i++){
+        dp[i][0]=false;
+    }
+
+    for(int i=1;i<=m;i++){
+
+        for(int j=1;j<=n;j++){
+
+            char ch1=s.charAt(i-1);
+            char ch2=p.charAt(j-1);
+
+            if(ch1==ch2 || ch2=='?'){
+
+                dp[i][j]=dp[i-1][j-1];
+            }
+            else if(ch2=='*'){
+
+                boolean w1=dp[i-1][j];
+                boolean w2=dp[i][j-1];
+
+                dp[i][j]=w1 || w2;
+            }
+            else{
+                dp[i][j]=false;
+            }
+        }
+    }
+
+    return dp[m][n];
+}
 }
