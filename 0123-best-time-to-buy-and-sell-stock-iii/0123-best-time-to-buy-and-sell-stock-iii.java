@@ -16,16 +16,25 @@ class Solution {
             return dp[ind][buy][rt]=Math.max(w1,w2);
         }
     }
-    public int maxProfit(int[] prices) {
-        int n=prices.length;
-        int[][][] dp=new int[n][2][3];
-        for(int i=0;i<n;i++){
-            for(int j=0;j<2;j++){
-                for(int k=0;k<3;k++){
-                    dp[i][j][k]=-1;
+    public int maxProfit(int[] p) {
+        int n=p.length;
+        int[][][] dp=new int[n+1][2][3];
+        for(int ind=n-1;ind>=0;ind--){
+            for(int buy=0;buy<2;buy++){
+                for(int rt=1;rt<3;rt++){
+                    if(buy==1){
+                        int w1=p[ind]+dp[ind+1][0][rt-1];
+                        int w2=dp[ind+1][1][rt];
+                        dp[ind][buy][rt]=Math.max(w1,w2);
+                    }
+                    else{
+                        int w1=-p[ind]+dp[ind+1][1][rt];
+                        int w2=dp[ind+1][0][rt];
+                        dp[ind][buy][rt]=Math.max(w1,w2);
+                    }
                 }
             }
         }
-        return solve(0,0,2,prices,dp);
+        return dp[0][0][2];
     }
 }
