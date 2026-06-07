@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/K3-github/DSA_Leetcode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/K3-github/DSA_Leetcode/tree/master/0741-cherry-pickup) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/K3-github/DSA_Leetcode/tree/master/0127-word-ladder) |
+| [0516-longest-palindromic-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
