@@ -2,28 +2,28 @@ class Solution {
     public int findNumberOfLIS(int[] nums) {
         int n=nums.length;
         int[] dp=new int[n];
-        int[] count=new int[n];
+        int[] cnt=new int[n];
         for(int i=0;i<n;i++){
-            dp[i]=1;count[i]=1;
+            dp[i]=1;cnt[i]=1;
         }
-        int lis=1;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<i;j++){
-                if(nums[i]>nums[j]){
-                    if(dp[i]<1+dp[j]){
-                        count[i]=count[j];
-                        dp[i]=1+dp[j];
+        int lis=0;
+        for(int curr=0;curr<n;curr++){
+            for(int prev=curr-1;prev>=0;prev--){
+                if(nums[curr]>nums[prev]){
+                    if(dp[curr]<1+dp[prev]){
+                        dp[curr]=1+dp[prev];
+                        cnt[curr]=cnt[prev];
                     }
-                    else if(dp[i]==1+dp[j]){
-                         count[i]+=count[j];
+                    else if(dp[curr]==1+dp[prev]){
+                        cnt[curr]+=cnt[prev];
                     }
                 }
             }
-            lis=Math.max(lis,dp[i]);
+            lis=Math.max(lis,dp[curr]);
         }
         int ans=0;
         for(int i=0;i<n;i++){
-           if(dp[i]==lis) ans+=count[i];
+            if(dp[i]==lis) ans+=cnt[i];
         }
         return ans;
     }
