@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/K3-github/DSA_Leetcode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/K3-github/DSA_Leetcode/tree/master/1048-longest-string-chain) |
+| [1095-find-in-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1463-cherry-pickup-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1514-path-with-maximum-probability](https://github.com/K3-github/DSA_Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Heap (Priority Queue)
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0845-longest-mountain-in-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
