@@ -41,11 +41,7 @@ class Solution {
         prev.next=null;
         ListNode node1=rev(head);
         ListNode node2=rev(slow);
-        ptr=node1;
-        while(ptr.next!=null){
-            ptr=ptr.next;
-        }
-        ptr.next=node2;
+        head.next=node2;
         return rev(node1);
     }
 }
