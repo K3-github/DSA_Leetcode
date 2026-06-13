@@ -27,20 +27,15 @@ class Solution {
         }
         k=k%len;
         if(k==0) return head;
-        ListNode slow=head,fast=head;
-        while(k>0){
-            fast=fast.next;
-            k--;
-        }
-        ListNode prev=null;
-        while(fast!=null){
-             prev=slow;
-             slow=slow.next;
-             fast=fast.next;
+        ListNode curr=head,prev=null;
+        k=len-k;
+        while(k-->0){
+             prev=curr;
+             curr=curr.next;
         }
         prev.next=null;
         ListNode node1=rev(head);
-        ListNode node2=rev(slow);
+        ListNode node2=rev(curr);
         head.next=node2;
         return rev(node1);
     }
