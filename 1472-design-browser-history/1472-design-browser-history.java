@@ -19,30 +19,29 @@ class Node{
     }
 };
 class BrowserHistory {
-    Node head,curr;
+    Node currPage;
     public BrowserHistory(String homepage) {
-        head=new Node(homepage);
-        curr=head;
+        currPage=new Node(homepage);
     }
     
     public void visit(String url) {
-        curr=curr.addAtLast(url);
+        currPage=currPage.addAtLast(url);
     }
     
     public String back(int steps) {
-        while(curr.prev!=null && steps>0){
-            curr=curr.prev;
+        while(currPage.prev!=null && steps>0){
+            currPage=currPage.prev;
             steps--;
         }
-        return curr.data;
+        return currPage.data;
     }
     
     public String forward(int steps) {
-        while(curr.next!=null && steps>0){
-            curr=curr.next;
+        while(currPage.next!=null && steps>0){
+            currPage=currPage.next;
             steps--;
         }
-        return curr.data;
+        return currPage.data;
     }
 }
 
