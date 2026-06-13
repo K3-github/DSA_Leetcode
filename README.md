@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/K3-github/DSA_Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/K3-github/DSA_Leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/K3-github/DSA_Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Breadth-First Search
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/K3-github/DSA_Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/K3-github/DSA_Leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/K3-github/DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/K3-github/DSA_Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
