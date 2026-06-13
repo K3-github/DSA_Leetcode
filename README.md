@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/K3-github/DSA_Leetcode/tree/master/1048-longest-string-chain) |
 | [1095-find-in-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/K3-github/DSA_Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/K3-github/DSA_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1472-design-browser-history](https://github.com/K3-github/DSA_Leetcode/tree/master/1472-design-browser-history) |
 | [1514-path-with-maximum-probability](https://github.com/K3-github/DSA_Leetcode/tree/master/1514-path-with-maximum-probability) |
@@ -378,4 +379,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/K3-github/DSA_Leetcode/tree/master/1472-design-browser-history) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/K3-github/DSA_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/K3-github/DSA_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
