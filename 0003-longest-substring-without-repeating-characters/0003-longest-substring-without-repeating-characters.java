@@ -8,8 +8,7 @@ class Solution {
         while(j<n){
             char ch=s.charAt(j);
             mp.put(ch,mp.getOrDefault(ch,0)+1);
-            
-            while(j-i+1>mp.size()){
+            if(j-i+1>mp.size()){
                 char ch1=s.charAt(i);
                 mp.put(ch1,mp.get(ch1)-1);
                 if(mp.get(ch1)==0) mp.remove(ch1);
