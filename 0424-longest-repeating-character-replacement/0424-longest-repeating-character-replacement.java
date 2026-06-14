@@ -10,12 +10,12 @@ class Solution {
              freq[ch-'A']++;
              maxF=Math.max(maxF,freq[ch-'A']);
              
-             while(j-i+1-maxF>k){
+             if(j-i+1-maxF>k){
                 char ch1=s.charAt(i);
                 freq[ch1-'A']--;
                 i++;
              }
-             ans=Math.max(ans,j-i+1);
+             else ans=Math.max(ans,j-i+1);
              j++;
         }
         return ans;
