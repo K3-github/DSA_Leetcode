@@ -1,15 +1,32 @@
 class Solution {
+    private int countSubarraySumGreaterThanOrEqualGoal(int[] nums,int goal){
+       int n=nums.length;
+       int i=0,j=0,count=0,sum=0;
+       while(j<n){
+           sum+=nums[j];
+           while(i<=j && sum>=goal){
+              count+=n-j;
+              sum-=nums[i++];
+           }
+           j++;
+       }
+       return count;
+    }
+    private int countSubarraySumGreaterThanGoal(int[] nums,int goal){
+       int n=nums.length;
+       int i=0,j=0,count=0,sum=0;
+       while(j<n){
+           sum+=nums[j];
+           while(i<=j && sum>goal){
+              count+=n-j;
+              sum-=nums[i++];
+           }
+           j++;
+       }
+       return count;
+    }
     public int numSubarraysWithSum(int[] nums, int goal) {
-        int count=0;
-        int n=nums.length;
-        for(int i=0;i<n;i++){
-            int sum=nums[i];
-            if(sum==goal) count++;
-            for(int j=i+1;j<n;j++){
-                sum+=nums[j];
-                if(sum==goal) count++;
-            }
-        }
-        return count;
+        return countSubarraySumGreaterThanOrEqualGoal(nums,goal)
+                -countSubarraySumGreaterThanGoal(nums,goal);
     }
 }
