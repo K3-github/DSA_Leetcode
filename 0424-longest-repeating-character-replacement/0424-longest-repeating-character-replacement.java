@@ -13,8 +13,6 @@ class Solution {
              while(j-i+1-maxF>k){
                 char ch1=s.charAt(i);
                 freq[ch1-'A']--;
-                maxF=0;
-                for(int ptr=0;ptr<26;ptr++) maxF=Math.max(maxF,freq[ptr]);
                 i++;
              }
              ans=Math.max(ans,j-i+1);
