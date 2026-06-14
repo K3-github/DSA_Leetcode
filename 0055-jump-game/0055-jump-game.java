@@ -6,8 +6,7 @@ class Solution {
         for(int i=0;i<n;i++){
             if(i>mxReach) return false;
             mxReach=Math.max(mxReach,i+nums[i]);
-            if(mxReach>=n-1) return true;
         }
-        return false;
+        return true;
     }
 }
