@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/K3-github/DSA_Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/K3-github/DSA_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/K3-github/DSA_Leetcode/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/K3-github/DSA_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/K3-github/DSA_Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1048-longest-string-chain](https://github.com/K3-github/DSA_Leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/K3-github/DSA_Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/K3-github/DSA_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/K3-github/DSA_Leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/K3-github/DSA_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/K3-github/DSA_Leetcode/tree/master/0860-lemonade-change) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1472-design-browser-history](https://github.com/K3-github/DSA_Leetcode/tree/master/1472-design-browser-history) |
 ## Design
 |  |
