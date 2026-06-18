@@ -9,14 +9,12 @@ class Solution {
                 dq.pollLast();
             }
             dq.offerLast(j);
-            if(j-i+1<k){
-                j++;
-            }
-            else if(j-i+1==k){
+            if(j-i+1==k){
                 ans.add(nums[dq.peekFirst()]);
                 if(dq.peekFirst()==i) dq.pollFirst();
-                i++;j++;
+                i++;
             }
+            j++;
         }
         int[] res=new int[ans.size()];
         for(int p=0;p<ans.size();p++){
