@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/K3-github/DSA_Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1048-longest-string-chain](https://github.com/K3-github/DSA_Leetcode/tree/master/1048-longest-string-chain) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/K3-github/DSA_Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/K3-github/DSA_Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/K3-github/DSA_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/K3-github/DSA_Leetcode/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/K3-github/DSA_Leetcode/tree/master/2126-destroying-asteroids) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/K3-github/DSA_Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/K3-github/DSA_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1472-design-browser-history](https://github.com/K3-github/DSA_Leetcode/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/K3-github/DSA_Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/K3-github/DSA_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Simulation
