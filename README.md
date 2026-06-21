@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/K3-github/DSA_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0980-unique-paths-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0980-unique-paths-iii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/K3-github/DSA_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/K3-github/DSA_Leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/K3-github/DSA_Leetcode/tree/master/0997-find-the-town-judge) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/K3-github/DSA_Leetcode/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/K3-github/DSA_Leetcode/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0980-unique-paths-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/K3-github/DSA_Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/K3-github/DSA_Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/K3-github/DSA_Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0980-unique-paths-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0980-unique-paths-iii) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Binary Search
 |  |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/K3-github/DSA_Leetcode/tree/master/0397-integer-replacement) |
+| [0980-unique-paths-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0980-unique-paths-iii) |
 ## Counting Sort
 |  |
 | ------- |
