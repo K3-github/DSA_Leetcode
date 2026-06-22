@@ -6,9 +6,9 @@ class Solution {
             if(board[i--][col]==ch) return false;
          }
          int j=col;
-         while(j>=0){
-            if(board[row][j--]==ch) return false;
-         }
+        //  while(j>=0){
+        //     if(board[row][j--]==ch) return false;
+        //  }
          i=row;j=col;
          while(i>=0 && j>=0){
             if(board[i--][j--]==ch) return false;
