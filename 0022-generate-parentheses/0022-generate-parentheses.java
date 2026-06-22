@@ -1,11 +1,12 @@
 class Solution {
     List<String> ans=new ArrayList<>();
     private void solve(int open,int close,String str){
+        if(open<0) return;
         if(open==0 && close==0){
             ans.add(str);
             return;
         }
-        if(open>0) solve(open-1,close,str+'(');
+        solve(open-1,close,str+'(');
         if(open==0 || open<close){
             solve(open,close-1,str+')');
         }
