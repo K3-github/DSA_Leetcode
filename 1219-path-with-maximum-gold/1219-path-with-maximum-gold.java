@@ -13,8 +13,7 @@ class Solution {
         for(int i=0;i<4;i++){
           int nrow=row+drow[i];
           int ncol=col+dcol[i];
-          int points=point+solve(nrow,ncol,grid);
-          ans=Math.max(ans,points);
+          ans=Math.max(ans,point+solve(nrow,ncol,grid));
         }
         grid[row][col]=point;
         return ans;
