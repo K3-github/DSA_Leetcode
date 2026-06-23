@@ -1,11 +1,13 @@
 class Solution {
+     private boolean isPalindrome(String s,int i,int j){
+        while(i<j){
+            if(s.charAt(i++)!=s.charAt(j--)) return false;
+        }
+        return true;
+    }
     private int solve(int ind,int cnt,int n,String s,int[][] dp,boolean[][] pal){
-        if(cnt==3){
-            return ind==n ? 1 : 0;
-        }
-        if(ind>=n){
-            return 0;
-        }
+        if(cnt==3) return ind==n ? 1 : 0;
+        if(ind>=n) return 0;
         if(dp[ind][cnt]!=-1) return dp[ind][cnt];
         int ans=0;
         for(int j=ind;j<n;j++){
