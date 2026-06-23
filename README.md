@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/K3-github/DSA_Leetcode/tree/master/1696-jump-game-vi) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/K3-github/DSA_Leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/K3-github/DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/K3-github/DSA_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2708-maximum-strength-of-a-group](https://github.com/K3-github/DSA_Leetcode/tree/master/2708-maximum-strength-of-a-group) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/K3-github/DSA_Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/K3-github/DSA_Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/K3-github/DSA_Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/K3-github/DSA_Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/K3-github/DSA_Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/K3-github/DSA_Leetcode/tree/master/1219-path-with-maximum-gold) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/K3-github/DSA_Leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2708-maximum-strength-of-a-group](https://github.com/K3-github/DSA_Leetcode/tree/master/2708-maximum-strength-of-a-group) |
@@ -642,9 +645,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/K3-github/DSA_Leetcode/tree/master/0397-integer-replacement) |
 | [0784-letter-case-permutation](https://github.com/K3-github/DSA_Leetcode/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0980-unique-paths-iii) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2708-maximum-strength-of-a-group](https://github.com/K3-github/DSA_Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 ## Counting Sort
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/K3-github/DSA_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Bitmask
+|  |
+| ------- |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
