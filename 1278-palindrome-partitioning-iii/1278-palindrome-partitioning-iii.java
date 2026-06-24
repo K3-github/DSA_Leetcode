@@ -6,7 +6,7 @@ class Solution {
         }
         return count;
     }
-    private int solve(int ind,int cnt,int k,String s,int[][] dp){
+    private int solve(int ind,int cnt,int k,String s,int[][] dp,int[][] minCharChage){
         int n=s.length();
         if(cnt==k) return (ind==n ? 0 : 10000);
         if(ind>=n) return 10000;
@@ -14,15 +14,28 @@ class Solution {
 
         int ans=100000;
         for(int j=ind;j<n;j++){
-            int total=cal(s,ind,j)+solve(j+1,cnt+1,k,s,dp);
+            int total=minCharChage[ind][j]+solve(j+1,cnt+1,k,s,dp,minCharChage);
             ans=Math.min(ans,total);
         }
         return dp[ind][cnt]=ans;
     }
     public int palindromePartition(String s, int k) {
         int n=s.length();
+        int[][] minCharChage=new int[n][n];
+        for(int i=n-1;i>=0;i--){
+            for(int j=i;j<n;j++){
+                if(s.charAt(i)==s.charAt(j)){
+                    if(j-i<=2) minCharChage[i][j]=0;
+                    else minCharChage[i][j]=minCharChage[i+1][j-1];
+                }
+                else{
+                    if(j-i<=2) minCharChage[i][j]=1;
+                    else minCharChage[i][j]=1+minCharChage[i+1][j-1];
+                }
+            }
+        }
         int[][] dp=new int[n][k+1];
         for(int i=0;i<n;i++) Arrays.fill(dp[i],-1);
-        return solve(0,0,k,s,dp);
+        return solve(0,0,k,s,dp,minCharChage);
     }
 }
