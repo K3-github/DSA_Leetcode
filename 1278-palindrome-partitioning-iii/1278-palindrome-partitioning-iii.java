@@ -1,11 +1,4 @@
 class Solution {
-    private int cal(String s,int i,int j){
-        int count=0;
-        while(i<j){
-            if(s.charAt(i++)!=s.charAt(j--)) count++;
-        }
-        return count;
-    }
     private int solve(int ind,int cnt,int k,String s,int[][] dp,int[][] minCharChage){
         int n=s.length();
         if(cnt==k) return (ind==n ? 0 : 10000);
