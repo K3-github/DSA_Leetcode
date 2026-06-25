@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/K3-github/DSA_Leetcode/tree/master/2126-destroying-asteroids) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/K3-github/DSA_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/K3-github/DSA_Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/K3-github/DSA_Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Matrix
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/K3-github/DSA_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/K3-github/DSA_Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Depth-First Search
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-find-center-of-star-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/K3-github/DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/K3-github/DSA_Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
@@ -446,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/K3-github/DSA_Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1696-jump-game-vi](https://github.com/K3-github/DSA_Leetcode/tree/master/1696-jump-game-vi) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/K3-github/DSA_Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Shortest Path
 |  |
@@ -455,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/K3-github/DSA_Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/K3-github/DSA_Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/K3-github/DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Math
 |  |
 | ------- |
