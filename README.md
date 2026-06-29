@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/K3-github/DSA_Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/K3-github/DSA_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/K3-github/DSA_Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0090-subsets-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/K3-github/DSA_Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/K3-github/DSA_Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/K3-github/DSA_Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/K3-github/DSA_Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/0200-number-of-islands) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/K3-github/DSA_Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/K3-github/DSA_Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/K3-github/DSA_Leetcode/tree/master/0207-course-schedule) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/K3-github/DSA_Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/K3-github/DSA_Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/K3-github/DSA_Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/K3-github/DSA_Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/K3-github/DSA_Leetcode/tree/master/0127-word-ladder) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/K3-github/DSA_Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/K3-github/DSA_Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/K3-github/DSA_Leetcode/tree/master/0131-palindrome-partitioning) |
