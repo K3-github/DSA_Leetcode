@@ -23,7 +23,7 @@ class Solution {
         int m=land[0].length;
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                mxRow=0;mxCol=0;
+                mxRow=i;mxCol=j;
                 if(land[i][j]==1){
                     solve(i,j,land);
                     ans.add(new int[]{i,j,mxRow,mxCol});
