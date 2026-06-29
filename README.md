@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/K3-github/DSA_Leetcode/tree/master/1696-jump-game-vi) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/K3-github/DSA_Leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1833-maximum-ice-cream-bars](https://github.com/K3-github/DSA_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1905-count-sub-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1905-count-sub-islands) |
 | [1980-find-unique-binary-string](https://github.com/K3-github/DSA_Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/K3-github/DSA_Leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1463-cherry-pickup-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1905-count-sub-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/K3-github/DSA_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/K3-github/DSA_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/K3-github/DSA_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
