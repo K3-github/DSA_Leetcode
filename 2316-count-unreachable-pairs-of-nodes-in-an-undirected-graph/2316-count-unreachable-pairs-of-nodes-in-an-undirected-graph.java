@@ -23,20 +23,22 @@ class Solution {
         }
         boolean[] vis=new boolean[n];
         List<Integer> cSize=new ArrayList<>();
-        for(int i=0;i<n;i++){
-            if(!vis[i]){
-               cSize.add(solve(i,g,vis));
-            }
-        }
-        // Collections.sort(cSize);
-        // System.out.println(cSize);
         long currSum=0;
         long ans=0;
-        for(int i=cSize.size()-1;i>=0;i--){
-            int currNum=cSize.get(i);
-             ans+=(currSum*currNum);
-             currSum+=currNum;
+        for(int i=0;i<n;i++){
+            if(!vis[i]){
+               int currNum=solve(i,g,vis);
+               ans+=(currSum*currNum);
+               currSum+=currNum;
+            }
         }
+        // long currSum=0;
+        // long ans=0;
+        // for(int i=cSize.size()-1;i>=0;i--){
+        //     int currNum=cSize.get(i);
+        //      ans+=(currSum*currNum);
+        //      currSum+=currNum;
+        // }
         return ans;
     }
 }
