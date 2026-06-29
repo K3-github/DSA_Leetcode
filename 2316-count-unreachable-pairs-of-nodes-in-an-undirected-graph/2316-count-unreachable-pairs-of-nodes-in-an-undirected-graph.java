@@ -3,13 +3,13 @@ class Solution {
         if(vis[node]==true) return 0;
         
         vis[node]=true;
-        int ans=0;
+        int neigh=0;
         for(int adjNode: graph.get(node)){
             if(!vis[adjNode]){
-                ans+=solve(adjNode,graph,vis);
+                neigh+=solve(adjNode,graph,vis);
             }
         }
-        return 1+ans;
+        return 1+neigh;
     }
     public long countPairs(int n, int[][] edges) {
         List<List<Integer>> g=new ArrayList<>();
@@ -22,7 +22,6 @@ class Solution {
             g.get(v).add(u);
         }
         boolean[] vis=new boolean[n];
-        List<Integer> cSize=new ArrayList<>();
         long currSum=0;
         long ans=0;
         for(int i=0;i<n;i++){
@@ -32,13 +31,6 @@ class Solution {
                currSum+=currNum;
             }
         }
-        // long currSum=0;
-        // long ans=0;
-        // for(int i=cSize.size()-1;i>=0;i--){
-        //     int currNum=cSize.get(i);
-        //      ans+=(currSum*currNum);
-        //      currSum+=currNum;
-        // }
         return ans;
     }
 }
