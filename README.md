@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/K3-github/DSA_Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/K3-github/DSA_Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/K3-github/DSA_Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/K3-github/DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/K3-github/DSA_Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/K3-github/DSA_Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -521,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/K3-github/DSA_Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/K3-github/DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
 |  |
