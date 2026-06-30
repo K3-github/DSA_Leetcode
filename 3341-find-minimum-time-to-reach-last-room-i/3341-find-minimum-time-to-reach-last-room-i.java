@@ -1,28 +1,28 @@
 class Solution {
-    public int minTimeToReach(int[][] moveTime) {
-        int n = moveTime.length, m = moveTime[0].length;
-        int[][] dp = new int[n][m];
-        for (int[] row : dp) Arrays.fill(row, Integer.MAX_VALUE);
-        PriorityQueue<int[]> minh = new PriorityQueue<>(Comparator.comparingInt(a -> a[0]));
-        minh.add(new int[]{0, 0, 0});
-        moveTime[0][0] = 0;
-        int[][] directions = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
-        while (!minh.isEmpty()) {
-            int[] current = minh.poll();
-            int currTime = current[0];
-            int currRow = current[1];
-            int currCol = current[2];
-            if (currTime >= dp[currRow][currCol]) continue;
-            if (currRow == n - 1 && currCol == m - 1) return currTime;
-            dp[currRow][currCol] = currTime;
-            for (int[] dir : directions) {
-                int nextRow = currRow + dir[0];
-                int nextCol = currCol + dir[1];
-                if (nextRow >= 0 && nextRow < n &&
-                    nextCol >= 0 && nextCol < m &&
-                    dp[nextRow][nextCol] == Integer.MAX_VALUE) {
-                    int nextTime = Math.max(moveTime[nextRow][nextCol], currTime) + 1;
-                    minh.add(new int[]{nextTime, nextRow, nextCol});
+    public int minTimeToReach(int[][] grid) {
+        int n=grid.length;
+        int m=grid[0].length;
+        PriorityQueue<int[]> pq=new PriorityQueue<>((a,b) -> a[0] - b[0]); 
+        pq.offer(new int[]{0,0,0});
+        int[][] minTime=new int[n][m];
+        for(int i=0;i<n;i++) Arrays.fill(minTime[i],Integer.MAX_VALUE);
+        grid[0][0]=0;
+        int[] drow={0,1,0,-1};
+        int[] dcol={1,0,-1,0};
+
+        while(pq.size()>0){
+            int[] tp=pq.poll();
+            int currTime=tp[0],row=tp[1],col=tp[2];
+            if(currTime>=minTime[row][col]) continue;
+            if(row==n-1 && col==m-1) return currTime;
+            minTime[row][col]=currTime;
+
+            for(int d=0;d<4;d++){
+                int nrow=row+drow[d];
+                int ncol=col+dcol[d];
+                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && minTime[nrow][ncol]==Integer.MAX_VALUE){
+                    int nextTime=Math.max(grid[nrow][ncol],currTime)+1;
+                    pq.offer(new int[]{nextTime,nrow,ncol});
                 }
             }
         }
