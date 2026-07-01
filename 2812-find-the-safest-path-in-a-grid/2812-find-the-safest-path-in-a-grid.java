@@ -2,7 +2,6 @@ class Solution {
     private int solve(int[][] dist){
         int n=dist.length;
         PriorityQueue<int[]> pq=new PriorityQueue<>((a,b) -> b[0] - a[0]);
-        int ans=0;
         pq.offer(new int[]{dist[0][0],0,0});
         int[][] vis=new int[n][n];
 
@@ -11,7 +10,6 @@ class Solution {
             int currVal=tp[0],row=tp[1],col=tp[2];
 
             if(vis[row][col]==1) continue;
-            ans=Math.max(ans,currVal);
             if(row==n-1 && col==n-1) return currVal;
             
             vis[row][col]=1;
@@ -28,7 +26,7 @@ class Solution {
                 }
             }
         }
-        return ans;
+        return -1;
     }
     public int maximumSafenessFactor(List<List<Integer>> grid) {
         int n=grid.size();
