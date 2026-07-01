@@ -8,8 +8,9 @@ class Solution {
         int ans=0;
         for(char ch:s.toCharArray()){
             int val=cost[ch-'a'];
-            curr=Math.max(val, curr+val);
+            curr+=val;
             ans=Math.max(ans,curr);
+            if(curr<0) curr=0;
         }
         return ans;
     }
