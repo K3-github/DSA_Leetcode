@@ -54,21 +54,18 @@ class Solution {
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j]==0){
-                    HashMap<Integer,Integer> mp=new HashMap<>();
+                    HashSet<Integer> st=new HashSet<>();
                     for(int d=0;d<4;d++){
                         int nrow=i+drow[d];
                         int ncol=j+dcol[d];
                         if(nrow>=0 && nrow<n && ncol>=0 && ncol<n && grid[nrow][ncol]==1){
                             int node=n*nrow+ncol;
                             int parent=ds.findUlp(node);
-                            mp.putIfAbsent(parent,ds.size.get(parent));
+                            st.add(parent);
                         }
                     }
                     int sum=0;
-                    for(Map.Entry<Integer,Integer> e: mp.entrySet()){
-                        int val=e.getValue();
-                        sum+=val;
-                    }
+                    for(int p: st) sum+=ds.size.get(ds.findUlp(p));
                     ans=Math.max(ans,1+sum);    
                 }
             }
