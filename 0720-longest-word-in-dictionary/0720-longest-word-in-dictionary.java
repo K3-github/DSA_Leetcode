@@ -19,9 +19,8 @@ class Solution {
     private boolean search(String word){
         Node node=root;
         for(char ch: word.toCharArray()){
-            if(node.links[ch-'a']==null) return false;
             node=node.links[ch-'a'];
-            if(node.end==false) return false;
+            if(node==null || node.end==false) return false;
         }
         return node.end;
     }
