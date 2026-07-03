@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/K3-github/DSA_Leetcode/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/K3-github/DSA_Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/K3-github/DSA_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/K3-github/DSA_Leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0494-target-sum) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/K3-github/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/K3-github/DSA_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0676-implement-magic-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/0676-implement-magic-dictionary) |
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0397-integer-replacement](https://github.com/K3-github/DSA_Leetcode/tree/master/0397-integer-replacement) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0784-letter-case-permutation](https://github.com/K3-github/DSA_Leetcode/tree/master/0784-letter-case-permutation) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/K3-github/DSA_Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0980-unique-paths-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0980-unique-paths-iii) |
@@ -880,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/K3-github/DSA_Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/K3-github/DSA_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0676-implement-magic-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/K3-github/DSA_Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
