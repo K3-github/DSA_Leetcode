@@ -35,7 +35,7 @@ class Solution {
         List<String> words = Arrays.asList(sentence.split(" "));
         for(int i=0;i<words.size();i++){
             String shortForm=getShortForm(words.get(i));
-            if(shortForm=="") continue;
+            if(shortForm.equals("")) continue;
             words.set(i,shortForm);
         }
         return String.join(" ", words);
