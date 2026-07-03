@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-minimum-additions-to-make-valid-string](https://github.com/K3-github/DSA_Leetcode/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/K3-github/DSA_Leetcode/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/K3-github/DSA_Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/K3-github/DSA_Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 ## Backtracking
@@ -870,4 +872,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/K3-github/DSA_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0676-implement-magic-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0720-longest-word-in-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
