@@ -38,21 +38,7 @@ class WordDictionary {
     }
     public boolean search(String word) {
         Node node=root;
-        for(int ind=0;ind<word.length();ind++){
-            char ch=word.charAt(ind);
-            if(ch=='.'){
-                boolean ans=false;
-                for(int i=0;i<26;i++){
-                    if(node.links[i]!=null){
-                      ans=ans || solve(node.links[i],word,ind+1);
-                    }
-                }
-                return ans;
-            }
-            if(node.links[ch-'a']==null) return false;
-            node=node.links[ch-'a'];
-        }
-        return node.flag;
+        return solve(node,word,0);
     }
 }
 
