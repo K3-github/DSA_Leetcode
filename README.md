@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/K3-github/DSA_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/K3-github/DSA_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/K3-github/DSA_Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/K3-github/DSA_Leetcode/tree/master/0684-redundant-connection) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/K3-github/DSA_Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/K3-github/DSA_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0282-expression-add-operators](https://github.com/K3-github/DSA_Leetcode/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/K3-github/DSA_Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/0402-remove-k-digits) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/K3-github/DSA_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1472-design-browser-history](https://github.com/K3-github/DSA_Leetcode/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -852,4 +855,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/K3-github/DSA_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
