@@ -1,24 +1,40 @@
+class Node{
+    Node[] links=new Node[26];
+    boolean end=false;
+
+    Node(){}
+};
 class Solution {
+    private Node root=new Node();
+    private void insert(String word){
+        Node node=root;
+        for(char ch: word.toCharArray()){
+            if(node.links[ch-'a']==null){
+                node.links[ch-'a']=new Node();
+            }
+            node=node.links[ch-'a'];
+        }
+        node.end=true;
+    }
+    private boolean search(String word){
+        Node node=root;
+        for(char ch: word.toCharArray()){
+            if(node.links[ch-'a']==null) return false;
+            node=node.links[ch-'a'];
+            if(node.end==false) return false;
+        }
+        return node.end;
+    }
     public String longestWord(String[] words) {
         Arrays.sort(words);
-        HashMap<String,Integer> mp=new HashMap<>();
-        int n=words.length;
+        for(String word: words){
+            insert(word);
+        }
         String ans="";
-        for(int i=0;i<n;i++){
-            StringBuilder str=new StringBuilder();
-            boolean present=true;
-            for(int j=0;j<words[i].length()-1;j++){
-                str.append(words[i].charAt(j));
-                if(!mp.containsKey(str.toString())){
-                    present=false;
-                }
+        for(String word: words){
+            if(search(word)==true && ans.length()<word.length()){
+                    ans=word;
             }
-            if(present==true){
-                 if(ans.length()<words[i].length()){
-                    ans=words[i];
-                 }
-            }
-            mp.put(words[i],1);
         }
         return ans;
     }
