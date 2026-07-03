@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/K3-github/DSA_Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/K3-github/DSA_Leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/K3-github/DSA_Leetcode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/K3-github/DSA_Leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/K3-github/DSA_Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/K3-github/DSA_Leetcode/tree/master/0198-house-robber) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/K3-github/DSA_Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/K3-github/DSA_Leetcode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/K3-github/DSA_Leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/K3-github/DSA_Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/K3-github/DSA_Leetcode/tree/master/0198-house-robber) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/K3-github/DSA_Leetcode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/K3-github/DSA_Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/K3-github/DSA_Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/K3-github/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/K3-github/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/K3-github/DSA_Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/K3-github/DSA_Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/K3-github/DSA_Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/K3-github/DSA_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0282-expression-add-operators](https://github.com/K3-github/DSA_Leetcode/tree/master/0282-expression-add-operators) |
@@ -614,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/K3-github/DSA_Leetcode/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/K3-github/DSA_Leetcode/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/K3-github/DSA_Leetcode/tree/master/0509-fibonacci-number) |
@@ -872,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/K3-github/DSA_Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/K3-github/DSA_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0676-implement-magic-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/0676-implement-magic-dictionary) |
