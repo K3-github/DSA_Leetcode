@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/K3-github/DSA_Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/K3-github/DSA_Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0039-combination-sum) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/K3-github/DSA_Leetcode/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/K3-github/DSA_Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/K3-github/DSA_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/K3-github/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/K3-github/DSA_Leetcode/tree/master/0061-rotate-list) |
