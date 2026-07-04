@@ -55,9 +55,10 @@ class Solution {
                         if(best.equals("")
                             || sub.length() < best.length()
                             || (sub.length() == best.length() && sub.compareTo(best) < 0)){
-                            best = sub;
+                            best=sub;
                         }
-                    }
+                        break;
+                   }
                 }
              }
              answer[index]=best;
