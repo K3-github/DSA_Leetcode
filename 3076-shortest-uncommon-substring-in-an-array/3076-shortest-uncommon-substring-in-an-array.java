@@ -52,14 +52,13 @@ class Solution {
                 for(int end=start;end<len;end++){
                     String sub=curr.substring(start,end+1);
                     if(isValid(sub)){
-                        if(best.equals("")
-                            || sub.length() < best.length()
-                            || (sub.length() == best.length() && sub.compareTo(best) < 0)){
+                        if(best.equals("") || sub.length()<best.length() || (sub.length()==best.length() && sub.compareTo(best)<0)){
                             best=sub;
                         }
                         break;
-                   }
+                    }
                 }
+     
              }
              answer[index]=best;
         }
