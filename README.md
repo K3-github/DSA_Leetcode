@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/K3-github/DSA_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/K3-github/DSA_Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/K3-github/DSA_Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/K3-github/DSA_Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/K3-github/DSA_Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/K3-github/DSA_Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/K3-github/DSA_Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/K3-github/DSA_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/K3-github/DSA_Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/K3-github/DSA_Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/K3-github/DSA_Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/K3-github/DSA_Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 ## Linked List
@@ -928,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1268-search-suggestions-system](https://github.com/K3-github/DSA_Leetcode/tree/master/1268-search-suggestions-system) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/K3-github/DSA_Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/K3-github/DSA_Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
