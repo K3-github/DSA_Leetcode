@@ -1,83 +1,58 @@
-class Solution {
-    int MOD = 1000000007;
-    int[][] score;
-    int[][] ways;
-    List<String> board;
-    int n;
+class Pair{
+    int score;
+    int cnt;
 
-    private void dfs(int row,int col){
-
-        if(row<0 || col<0 || row>=n || col>=n) return;
-
-        if(board.get(row).charAt(col)=='X') return;
-
-        if(score[row][col]!=Integer.MIN_VALUE) return;
-
-        if(row==n-1 && col==n-1){
-            score[row][col]=0;
-            ways[row][col]=1;
-            return;
-        }
-
-        dfs(row+1,col);
-        dfs(row,col+1);
-        dfs(row+1,col+1);
-
-        int best=-1;
-        int cnt=0;
-
-        int[][] dir={{1,0},{0,1},{1,1}};
-
-        for(int[] d:dir){
-
-            int nr=row+d[0];
-            int nc=col+d[1];
-
-            if(nr>=n || nc>=n) continue;
-
-            if(score[nr][nc]==-1 || score[nr][nc]==Integer.MIN_VALUE)
-                continue;
-
-            if(score[nr][nc]>best){
-                best=score[nr][nc];
-                cnt=ways[nr][nc];
-            }
-            else if(score[nr][nc]==best){
-                cnt=(cnt+ways[nr][nc])%MOD;
-            }
-        }
-
-        if(best==-1){
-            score[row][col]=-1;
-            ways[row][col]=0;
-            return;
-        }
-
-        char ch=board.get(row).charAt(col);
-
-        if(ch>='0' && ch<='9')
-            best+=ch-'0';
-
-        score[row][col]=best;
-        ways[row][col]=cnt;
+    Pair(int score,int cnt){
+        this.score=score;
+        this.cnt=cnt;
     }
+};
+class Solution {
+    int mod=1000000007;
+    private Pair solve(int row,int col,int[][] dp,int[][] ways,List<String> board){
+        int n=board.size();
+        if(row>=n || col>=n) return new Pair(Integer.MIN_VALUE,0);
+        if(board.get(row).charAt(col)=='X') return new Pair(Integer.MIN_VALUE,0);
+        if(row==n-1 && col==n-1){
+            dp[row][col]=0;
+            ways[row][col]=1;
+            return new Pair(0,1);
+        }
+        if(dp[row][col]!=-1) return new Pair(dp[row][col],ways[row][col]);
 
+        int ans=0;
+        char ch=board.get(row).charAt(col);
+        if(ch>='1' && ch<='9'){
+            ans=ch-'0';
+        }
+        Pair down=solve(row+1,col,dp,ways,board);
+        Pair digRight=solve(row+1,col+1,dp,ways,board);
+        Pair right=solve(row,col+1,dp,ways,board);
+        
+        int mx=Math.max(down.score,Math.max(digRight.score,right.score));
+        int cnt=0;
+        if(mx==down.score){
+            cnt=(cnt+down.cnt)%mod;
+        }
+        if(mx==digRight.score){
+            cnt=(cnt+digRight.cnt)%mod;
+        }
+        if(mx==right.score){
+            cnt=(cnt+right.cnt)%mod;
+        }
+        ways[row][col]=cnt;
+        int finalVal=mx+ans;
+        dp[row][col]=finalVal;
+        return new Pair(finalVal,cnt);
+
+    }
     public int[] pathsWithMaxScore(List<String> board) {
-
-        this.board=board;
-        n=board.size();
-
-        score=new int[n][n];
-        ways=new int[n][n];
-
-        for(int i=0;i<n;i++)
-            Arrays.fill(score[i],Integer.MIN_VALUE);
-
-        dfs(0,0);
-
-        if(score[0][0]==-1)
-            return new int[]{0,0};
-
-        return new int[]{score[0][0],ways[0][0]};
+        int n=board.size();
+        int[][] dp=new int[n][n];
+        for(int i=0;i<n;i++) Arrays.fill(dp[i],-1);
+        int[][] ways=new int[n][n];
+        solve(0,0,dp,ways,board);
+        if(dp[0][0]<0) return new int[]{0,0};
+        return new int[]{dp[0][0],ways[0][0]};
     }
 }
