@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/K3-github/DSA_Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/K3-github/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/K3-github/DSA_Leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/K3-github/DSA_Leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/K3-github/DSA_Leetcode/tree/master/0695-max-area-of-island) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/K3-github/DSA_Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/K3-github/DSA_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/K3-github/DSA_Leetcode/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/K3-github/DSA_Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/0402-remove-k-digits) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/K3-github/DSA_Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/K3-github/DSA_Leetcode/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0494-target-sum) |
@@ -917,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/K3-github/DSA_Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/K3-github/DSA_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/K3-github/DSA_Leetcode/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/0676-implement-magic-dictionary) |
