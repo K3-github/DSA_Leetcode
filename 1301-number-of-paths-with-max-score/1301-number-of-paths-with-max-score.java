@@ -14,8 +14,8 @@ class Solution {
         if(row>=n || col>=n) return new Pair(Integer.MIN_VALUE,0);
         if(board.get(row).charAt(col)=='X') return new Pair(Integer.MIN_VALUE,0);
         if(row==n-1 && col==n-1){
-            dp[row][col]=0;
-            ways[row][col]=1;
+            // dp[row][col]=0;
+            // ways[row][col]=1;
             return new Pair(0,1);
         }
         if(dp[row][col]!=-1) return new Pair(dp[row][col],ways[row][col]);
