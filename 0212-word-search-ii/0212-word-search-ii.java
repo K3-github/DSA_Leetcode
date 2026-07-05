@@ -46,12 +46,12 @@ class Solution {
         }
         int n=board.length;
         int m=board[0].length;
+        boolean[][] vis=new boolean[n][m];
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                  Node node=root;
                  char ch=board[i][j];
                  if(node.links[ch-'a']!=null){
-                    boolean[][] vis=new boolean[n][m];
                     solve(i,j,node,"",board,vis);
                  }
             }
