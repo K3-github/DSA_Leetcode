@@ -17,6 +17,8 @@ class Solution {
         }
         node.end=true;
     }
+    int[] drow=new int[]{0,+1,0,-1};
+    int[] dcol=new int[]{+1,0,-1,0};
     private void solve(int row,int col,Node node,String curr,char[][] board,boolean[][] vis){
          int n=board.length;
          int m=board[0].length;
@@ -31,9 +33,6 @@ class Solution {
             ans.add(curr);
             node.end=false;
          }
-
-         int[] drow=new int[]{0,+1,0,-1};
-         int[] dcol=new int[]{+1,0,-1,0};
 
          for(int d=0;d<4;d++){
             int nrow=row+drow[d];
