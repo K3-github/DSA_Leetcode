@@ -6,7 +6,6 @@ class Node{
 };
 class Solution {
     private Node root=new Node();
-    HashSet<String> st=new HashSet<>();
     List<String> ans=new ArrayList<>();
     private void insert(String word){
         Node node=root;
@@ -28,7 +27,10 @@ class Solution {
          vis[row][col]=true;
          curr+=ch;
          node=node.links[ch-'a'];
-         if(node.end==true) st.add(curr);
+         if(node.end==true){
+            ans.add(curr);
+            node.end=false;
+         }
 
          int[] drow=new int[]{0,+1,0,-1};
          int[] dcol=new int[]{+1,0,-1,0};
@@ -56,7 +58,6 @@ class Solution {
                  }
             }
         }
-        for(String str: st) ans.add(str);
         return ans;
     }
 }
