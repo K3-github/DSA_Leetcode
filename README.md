@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/K3-github/DSA_Leetcode/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/K3-github/DSA_Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0820-short-encoding-of-words](https://github.com/K3-github/DSA_Leetcode/tree/master/0820-short-encoding-of-words) |
 | [0827-making-a-large-island](https://github.com/K3-github/DSA_Leetcode/tree/master/0827-making-a-large-island) |
 | [0845-longest-mountain-in-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0820-short-encoding-of-words](https://github.com/K3-github/DSA_Leetcode/tree/master/0820-short-encoding-of-words) |
 | [0904-fruit-into-baskets](https://github.com/K3-github/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/K3-github/DSA_Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0784-letter-case-permutation](https://github.com/K3-github/DSA_Leetcode/tree/master/0784-letter-case-permutation) |
 | [0792-number-of-matching-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0820-short-encoding-of-words](https://github.com/K3-github/DSA_Leetcode/tree/master/0820-short-encoding-of-words) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/K3-github/DSA_Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1023-camelcase-matching](https://github.com/K3-github/DSA_Leetcode/tree/master/1023-camelcase-matching) |
 | [1048-longest-string-chain](https://github.com/K3-github/DSA_Leetcode/tree/master/1048-longest-string-chain) |
@@ -948,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0820-short-encoding-of-words](https://github.com/K3-github/DSA_Leetcode/tree/master/0820-short-encoding-of-words) |
 | [1023-camelcase-matching](https://github.com/K3-github/DSA_Leetcode/tree/master/1023-camelcase-matching) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/K3-github/DSA_Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1268-search-suggestions-system](https://github.com/K3-github/DSA_Leetcode/tree/master/1268-search-suggestions-system) |
