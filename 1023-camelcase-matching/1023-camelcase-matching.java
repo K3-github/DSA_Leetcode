@@ -23,8 +23,7 @@ class Solution {
     public List<Boolean> camelMatch(String[] queries, String pattern) {
         List<Boolean> ans=new ArrayList<>();
         for(String q: queries){
-            if(isMatch(q,pattern)) ans.add(true);
-            else ans.add(false);
+            ans.add(isMatch(q,pattern));
         }
         return ans;
     }
