@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/K3-github/DSA_Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/K3-github/DSA_Leetcode/tree/master/1219-path-with-maximum-gold) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/K3-github/DSA_Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1268-search-suggestions-system](https://github.com/K3-github/DSA_Leetcode/tree/master/1268-search-suggestions-system) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/K3-github/DSA_Leetcode/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/K3-github/DSA_Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1020-number-of-enclaves) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/K3-github/DSA_Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1306-jump-game-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/K3-github/DSA_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/K3-github/DSA_Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/K3-github/DSA_Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/K3-github/DSA_Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1268-search-suggestions-system](https://github.com/K3-github/DSA_Leetcode/tree/master/1268-search-suggestions-system) |
@@ -946,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1023-camelcase-matching](https://github.com/K3-github/DSA_Leetcode/tree/master/1023-camelcase-matching) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/K3-github/DSA_Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1268-search-suggestions-system](https://github.com/K3-github/DSA_Leetcode/tree/master/1268-search-suggestions-system) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/K3-github/DSA_Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/K3-github/DSA_Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
