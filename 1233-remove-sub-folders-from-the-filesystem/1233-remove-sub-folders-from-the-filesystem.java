@@ -1,16 +1,16 @@
 class Solution {
     public List<String> removeSubfolders(String[] folder) {
         Arrays.sort(folder,(a,b)-> a.length() - b.length());
-        HashMap<String,Boolean> mp=new HashMap<>();
+        HashSet<String> st=new HashSet<>();
         List<String> ans=new ArrayList<>();
         for(String str: folder){
             List<String> list = Arrays.asList(str.split("/"));
-            Boolean need=true;
+            boolean need=true;
             StringBuilder temp=new StringBuilder();
             int n=list.size();
             for(int i=1;i<n;i++){
                 temp.append(list.get(i));
-                if(mp.containsKey(temp.toString())){
+                if(st.contains(temp.toString())){
                        need=false;
                        break;
                 }
@@ -18,7 +18,7 @@ class Solution {
             }
             if(need){
                 ans.add(str);
-                mp.put(temp.toString(),true);
+                st.add(temp.toString());
             }
         }
         return ans;
