@@ -44,7 +44,6 @@ class Solution {
          for(int i=0;i<n;i++){
             ans+=getPairs(nums[i],high);
             ans-=getPairs(nums[i],low-1);
-
             insert(nums[i]);
          }
          return ans;
