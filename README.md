@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/K3-github/DSA_Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3597-partition-string](https://github.com/K3-github/DSA_Leetcode/tree/master/3597-partition-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/K3-github/DSA_Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -912,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/K3-github/DSA_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K3-github/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Queue
 |  |
 | ------- |
