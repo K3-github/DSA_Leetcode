@@ -82,16 +82,14 @@ class Solution {
             qmp.get(node).add(new Pair(val,i));
         }
         for(int i=0;i<parents.length;i++){
+            if(!tmp.containsKey(i)){
+                tmp.put(i,new ArrayList<>());
+            }
             List<Integer> list=tmp.get(parents[i]);
             if(list==null){
                 tmp.put(parents[i],new ArrayList<>());
             }
             tmp.get(parents[i]).add(i);
-        }
-        for(int i=0;i<parents.length;i++){
-            if(!tmp.containsKey(i)){
-                tmp.put(i,new ArrayList<>());
-            }
         }
         int root=tmp.get(-1).get(0);
         solve(root);
