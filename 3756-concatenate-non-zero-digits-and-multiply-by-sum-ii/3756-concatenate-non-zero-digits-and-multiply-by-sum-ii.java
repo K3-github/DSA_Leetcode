@@ -1,39 +1,41 @@
 class Solution {
-    static int MOD = 1000000007;
-
     public int[] sumAndMultiply(String s, int[][] queries) {
-        int n = s.length(), q = queries.length;
-        int[] prefixSum = new int[n + 1];
-        int[] digitsCount = new int[n + 1];
-        int[] prefixVal = new int[n + 1];
-        long[] pow10 = new long[n + 1];
-        pow10[0] = 1;
-        for (int i = 1; i <= n; i++) {
-            pow10[i] = (pow10[i - 1] * 10) % MOD;
+        int n=s.length();
+        int mod=1000000007;
+        long[] pow=new long[n+1];
+        pow[0]=1;
+        for(int i=1;i<=n;i++){
+            pow[i]=(pow[i-1]*10)%mod;
         }
-        for (int i = 0; i < n; i++) {
-            int num = s.charAt(i) - '0';
-            prefixSum[i + 1] = prefixSum[i];
-            digitsCount[i + 1] = digitsCount[i];
-            prefixVal[i + 1] = prefixVal[i];
-            if (num != 0) {
-                prefixSum[i + 1] += num;
-                digitsCount[i + 1]++;
-                prefixVal[i + 1] = (int) (((long) prefixVal[i] * 10 + num) % MOD);
+        int[][] pfx=new int[n][3];
+        long cn=0;
+        int nod=0,sod=0;
+        for(int i=0;i<n;i++){
+            char ch=s.charAt(i);
+            if(ch>='1' && ch<='9'){
+                cn=((cn*10)%mod+(ch-'0'))%mod;
+                nod++;sod+=(ch-'0');
             }
+            pfx[i]=new int[]{(int)cn,nod,sod};
         }
-        int[] res = new int[q];
-        for (int i = 0; i < q; i++) {
-            int l = queries[i][0];
-            int r = queries[i][1];
-            int sum = prefixSum[r + 1] - prefixSum[l];
-            int cnt = digitsCount[r + 1] - digitsCount[l];
-            long x = (prefixVal[r + 1]
-                    - ((long) prefixVal[l] * pow10[cnt]) % MOD
-                    + MOD) % MOD;
+        int[] ans=new int[queries.length];
+        for(int i=0;i<queries.length;i++){
+            int l=queries[i][0];
+            int r=queries[i][1];
 
-            res[i] = (int) (x * sum % MOD);
+            int rn=pfx[r][0],ln=(l>0 ? pfx[l-1][0] : 0);
+            int rd=pfx[r][1],ld=(l>0 ? pfx[l-1][1] : 0);
+            int rs=pfx[r][2],ls=(l>0 ? pfx[l-1][2] : 0);
+
+            int wd=rd-ld;
+            long power=pow[wd]%mod;
+
+            long wn = ((long)rn - (((long)ln * power) % mod) + mod) % mod;
+            int ws=rs-ls;
+
+            long wres=((wn%mod)*(long)ws%mod)%mod;
+            ans[i]=(int)wres;
         }
-        return res;
+        return ans;
     }
 }
