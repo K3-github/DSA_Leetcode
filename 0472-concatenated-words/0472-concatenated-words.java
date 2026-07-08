@@ -1,14 +1,34 @@
+class Node{
+    Node[] links=new Node[26];
+    boolean end=false;
+
+    Node(){}
+};
 class Solution {
-    HashSet<String> st=new HashSet<>();
+    private Node root=new Node();
+    private void insert(String word){
+        Node node=root;
+        for(char ch: word.toCharArray()){
+            if(node.links[ch-'a']==null){
+                node.links[ch-'a']=new Node();
+            }
+            node=node.links[ch-'a'];
+        }
+        node.end=true;
+    }
     private int solve(int ind,String word,int[] dp){
         int n=word.length();
         if(ind>=n) return 0;
         if(dp[ind]!=-1) return dp[ind];
 
         int ans=Integer.MIN_VALUE;
+        Node node=root;
+        StringBuilder sub=new StringBuilder();
         for(int j=ind;j<n;j++){
-            String sub=word.substring(ind,j+1);
-            if(st.contains(sub)){
+            char ch=word.charAt(j);
+            node=node.links[ch-'a'];
+            if(node==null) break;
+            if(node.end==true){
                 ans=Math.max(ans,1+solve(j+1,word,dp));
             }
         }
@@ -16,7 +36,7 @@ class Solution {
     }
     public List<String> findAllConcatenatedWordsInADict(String[] words) {
         for(String word: words){
-            st.add(word);
+            insert(word);
         }
         List<String> ans=new ArrayList<>();
         for(String word: words){
