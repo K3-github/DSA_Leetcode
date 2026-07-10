@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3093-longest-common-suffix-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/K3-github/DSA_Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-minimum-additions-to-make-valid-string](https://github.com/K3-github/DSA_Leetcode/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2708-maximum-strength-of-a-group](https://github.com/K3-github/DSA_Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/K3-github/DSA_Leetcode/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
@@ -795,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2708-maximum-strength-of-a-group](https://github.com/K3-github/DSA_Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
