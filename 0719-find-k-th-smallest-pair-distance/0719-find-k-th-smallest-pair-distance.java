@@ -1,22 +1,13 @@
 class Solution {
-    private int bs(int[] nums,int ind,int low,int high,int mxDis){
-        int ans=0;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            int dis=nums[mid]-nums[ind];
-            if(dis<=mxDis){
-                ans=mid-ind;
-                low=mid+1;
-            }
-            else high=mid-1;
-        }
-        return ans;
-    }
     private int noOfPairs(int[] nums,int dis){
         int n=nums.length;
         int count=0;
+        int j=1;
         for(int i=0;i<n;i++){
-           count+=bs(nums,i,i+1,n-1,dis);
+           while(j<n && nums[j]-nums[i]<=dis){
+               j++;
+           }
+           count+=j-i-1;
         }
         return count;
     }
