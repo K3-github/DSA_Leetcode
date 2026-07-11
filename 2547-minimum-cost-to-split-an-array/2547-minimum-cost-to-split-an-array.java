@@ -5,18 +5,12 @@ class Solution {
         if(dp[ind]!=-1) return dp[ind];
 
         int ans=Integer.MAX_VALUE;
-        HashMap<Integer,Integer> mp=new HashMap<>();
+        int[] freq=new int[n];
         int len=0;
         for(int j=ind;j<n;j++){
-            if(mp.containsKey(nums[j])){
-                int freq=mp.get(nums[j])+1;
-                mp.put(nums[j],freq);
-                if(freq==2) len+=2;
-                else len++;
-            }
-            else{
-                mp.put(nums[j],1);
-            }
+            int f=++freq[nums[j]];
+            if(f==2) len+=2;
+            else if(f>2) len++;
             int res=solve(j+1,nums,k,dp);
             if(res!=Integer.MAX_VALUE){
                 ans=Math.min(ans,k+len+res);
