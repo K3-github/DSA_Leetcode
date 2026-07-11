@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2935-maximum-strong-pair-xor-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/2935-maximum-strong-pair-xor-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3093-longest-common-suffix-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
@@ -1007,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/K3-github/DSA_Leetcode/tree/master/0735-asteroid-collision) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3597-partition-string](https://github.com/K3-github/DSA_Leetcode/tree/master/3597-partition-string) |
 ## Bit Manipulation
 |  |
