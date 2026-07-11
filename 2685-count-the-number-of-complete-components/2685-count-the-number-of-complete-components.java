@@ -1,10 +1,9 @@
 class Solution {
     int nn=0,ne=0;
-    int[] ind;
     private void solve(int node,List<List<Integer>> graph,boolean[] vis){
         vis[node]=true;
         nn++;
-        ne+=ind[node];
+        ne+=graph.get(node).size();
         for(int adjNode: graph.get(node)){
             if(vis[adjNode]==false) solve(adjNode,graph,vis);
         }
@@ -15,10 +14,8 @@ class Solution {
         for(int i=0;i<n;i++){
             g.add(new ArrayList<>());
         }
-        ind=new int[n];
         for(int[] e: edges){
             int u=e[0],v=e[1];
-            ind[u]++;ind[v]++;
             g.get(u).add(v);
             g.get(v).add(u);
         }
