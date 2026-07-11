@@ -1,17 +1,12 @@
 class Solution {
     int nn=0,ne=0;
-    private void solve(int node,List<List<Integer>> graph,boolean[] vis,HashSet<String> st){
-        if(vis[node]==true) return;
-
+    int[] ind;
+    private void solve(int node,List<List<Integer>> graph,boolean[] vis){
         vis[node]=true;
         nn++;
+        ne+=ind[node];
         for(int adjNode: graph.get(node)){
-            String str1=(node+'0')+"-"+(adjNode+'0');
-            String str2=(adjNode+'0')+"-"+(node+'0');
-            if(st.contains(str1) || st.contains(str2)) continue;
-            ne++;
-            st.add(str1);
-            if(vis[adjNode]==false) solve(adjNode,graph,vis,st);
+            if(vis[adjNode]==false) solve(adjNode,graph,vis);
         }
     }
     public int countCompleteComponents(int n, int[][] edges) {
@@ -20,19 +15,20 @@ class Solution {
         for(int i=0;i<n;i++){
             g.add(new ArrayList<>());
         }
+        ind=new int[n];
         for(int[] e: edges){
             int u=e[0],v=e[1];
+            ind[u]++;ind[v]++;
             g.get(u).add(v);
             g.get(v).add(u);
         }
         int count=0;
         for(int i=0;i<n;i++){
             if(vis[i]==false){
-                HashSet<String> st=new HashSet<>();
                 nn=0;ne=0;
-                solve(i,g,vis,st);
+                solve(i,g,vis);
                 int me=nn*(nn-1)/2;
-                if(ne==me) count++;
+                if((ne/2)==me) count++;
             }
         }
         return count;
