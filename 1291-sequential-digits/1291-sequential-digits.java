@@ -1,7 +1,7 @@
 class Solution {
     List<Integer> ans=new ArrayList<>();
     private void solve(int ind,int low,int high){
-        if(ind>9) return;
+        if(ind>=9) return;
         long res=0;
         for(int j=ind;j<=9;j++){
             res=res*10+j;
