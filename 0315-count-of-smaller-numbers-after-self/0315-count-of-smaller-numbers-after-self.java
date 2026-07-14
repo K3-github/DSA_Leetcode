@@ -7,22 +7,22 @@ class Solution {
         int k=0;
         while(i<=mid && j<=high){
             if(v[i][0]>v[j][0]){
-                res[k++]=new int[]{v[j][0],v[j][1]};
+                res[k++]=v[j];
                 j++;cnt++;
             }
             else{
                 ans[v[i][1]]+=cnt;
-                res[k++]=new int[]{v[i][0],v[i][1]};
+                res[k++]=v[i];
                 i++;
             }
         }
         while(i<=mid){
-            res[k++]=new int[]{v[i][0],v[i][1]};
+            res[k++]=v[i];
             ans[v[i][1]]+=cnt;
             i++;
         }
         while(j<=high){
-            res[k++]=new int[]{v[j][0],v[j][1]};
+            res[k++]=v[j];
             j++;
         }
         for(int ptr=low;ptr<=high;ptr++){
