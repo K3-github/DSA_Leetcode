@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1905-count-sub-islands) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/K3-github/DSA_Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1938-maximum-genetic-difference-query](https://github.com/K3-github/DSA_Leetcode/tree/master/1938-maximum-genetic-difference-query) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/K3-github/DSA_Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1992-find-all-groups-of-farmland](https://github.com/K3-github/DSA_Leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/K3-github/DSA_Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1248-count-number-of-nice-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/K3-github/DSA_Leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -1115,5 +1117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K3-github/DSA_Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
