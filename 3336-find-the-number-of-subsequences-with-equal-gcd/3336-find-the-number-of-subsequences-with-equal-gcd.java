@@ -6,7 +6,7 @@ class Solution {
     }
     private int solve(int ind,int gcd1,int gcd2,int[] nums,int[][][] dp){
         if(ind>=nums.length){
-            if(gcd1==gcd2) return 1;
+            if((gcd1!=0 && gcd2!=0 && gcd1==gcd2)) return 1;
             return 0;
         }
         if(dp[ind][gcd1][gcd2]!=-1) return dp[ind][gcd1][gcd2];
@@ -14,10 +14,11 @@ class Solution {
         int updated_gcd1=getGcd(gcd1,nums[ind]);
         int updated_gcd2=getGcd(gcd2,nums[ind]);
         
-        int w1=solve(ind+1,updated_gcd1,gcd2,nums,dp)%mod;
-        int w2=solve(ind+1,gcd1,updated_gcd2,nums,dp)%mod;
-        int w3=solve(ind+1,gcd1,gcd2,nums,dp)%mod;
-        return dp[ind][gcd1][gcd2]=(((w1+w2)%mod)+w3)%mod;
+        long ans=0;
+        ans+=solve(ind+1,updated_gcd1,gcd2,nums,dp);
+        ans+=solve(ind+1,gcd1,updated_gcd2,nums,dp);
+        ans+=solve(ind+1,gcd1,gcd2,nums,dp);
+        return dp[ind][gcd1][gcd2]=(int)(ans%mod);
     }
     public int subsequencePairCount(int[] nums) {
         int n=nums.length;
@@ -31,6 +32,6 @@ class Solution {
                 }
             }
         }
-        return solve(0,0,0,nums,dp)-1;
+        return solve(0,0,0,nums,dp);
     }
 }
