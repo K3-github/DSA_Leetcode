@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/K3-github/DSA_Leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/K3-github/DSA_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/K3-github/DSA_Leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K3-github/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/K3-github/DSA_Leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
