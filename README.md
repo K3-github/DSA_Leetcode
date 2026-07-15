@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/K3-github/DSA_Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1992-find-all-groups-of-farmland](https://github.com/K3-github/DSA_Leetcode/tree/master/1992-find-all-groups-of-farmland) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/K3-github/DSA_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1938-maximum-genetic-difference-query](https://github.com/K3-github/DSA_Leetcode/tree/master/1938-maximum-genetic-difference-query) |
 | [1980-find-unique-binary-string](https://github.com/K3-github/DSA_Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/K3-github/DSA_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2262-total-appeal-of-a-string](https://github.com/K3-github/DSA_Leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [2364-count-number-of-bad-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2364-count-number-of-bad-pairs) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/K3-github/DSA_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2063-vowels-of-all-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/K3-github/DSA_Leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2364-count-number-of-bad-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2364-count-number-of-bad-pairs) |
@@ -929,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/K3-github/DSA_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/K3-github/DSA_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/K3-github/DSA_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/K3-github/DSA_Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
@@ -1168,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/K3-github/DSA_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K3-github/DSA_Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/K3-github/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
