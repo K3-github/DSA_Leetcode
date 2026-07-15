@@ -4,14 +4,15 @@ class Solution {
         TreeSet<Integer> st=new TreeSet<>();
         int ans=Integer.MAX_VALUE;
         for(int i=x;i<n;i++){
+            int ele=nums.get(i);
             st.add(nums.get(i-x));
-            Integer floor=st.floor(nums.get(i));
+            Integer floor=st.floor(ele);
             if(floor!=null){
-                ans=Math.min(ans,nums.get(i)-floor);
+                ans=Math.min(ans,ele-floor);
             }
-            Integer ceil=st.ceiling(nums.get(i));
+            Integer ceil=st.ceiling(ele);
             if(ceil!=null){
-                ans=Math.min(ans,ceil-nums.get(i));
+                ans=Math.min(ans,ceil-ele);
             }
         }
         return ans;
