@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/K3-github/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/K3-github/DSA_Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/2935-maximum-strong-pair-xor-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/K3-github/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2708-maximum-strength-of-a-group](https://github.com/K3-github/DSA_Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/K3-github/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -879,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/K3-github/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Indexed Tree
