@@ -32,7 +32,7 @@ class Solution {
         for(int i=0;i<n;i++){
             int start=binarySearch1(nums,lower-nums[i],i+1);
             int end=binarySearch2(nums,upper-nums[i],i+1);
-            if(start!=-1 && end!=-1) count+=end-start+1;
+            if(start!=-1 && end>=start) count+=end-start+1;
         }
         return count;
     }
