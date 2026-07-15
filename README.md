@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/K3-github/DSA_Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2465-number-of-distinct-averages](https://github.com/K3-github/DSA_Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/K3-github/DSA_Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2262-total-appeal-of-a-string](https://github.com/K3-github/DSA_Leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [2364-count-number-of-bad-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2364-count-number-of-bad-pairs) |
+| [2465-number-of-distinct-averages](https://github.com/K3-github/DSA_Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/K3-github/DSA_Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/K3-github/DSA_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/K3-github/DSA_Leetcode/tree/master/2126-destroying-asteroids) |
+| [2465-number-of-distinct-averages](https://github.com/K3-github/DSA_Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -890,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/K3-github/DSA_Leetcode/tree/master/1023-camelcase-matching) |
 | [1048-longest-string-chain](https://github.com/K3-github/DSA_Leetcode/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/K3-github/DSA_Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2465-number-of-distinct-averages](https://github.com/K3-github/DSA_Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
