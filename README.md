@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/K3-github/DSA_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/K3-github/DSA_Leetcode/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/K3-github/DSA_Leetcode/tree/master/0472-concatenated-words) |
+| [0475-heaters](https://github.com/K3-github/DSA_Leetcode/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0518-coin-change-ii) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0327-count-of-range-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0475-heaters](https://github.com/K3-github/DSA_Leetcode/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/K3-github/DSA_Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/K3-github/DSA_Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/K3-github/DSA_Leetcode/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/K3-github/DSA_Leetcode/tree/master/0472-concatenated-words) |
+| [0475-heaters](https://github.com/K3-github/DSA_Leetcode/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/K3-github/DSA_Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/K3-github/DSA_Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -905,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K3-github/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/K3-github/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/K3-github/DSA_Leetcode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/K3-github/DSA_Leetcode/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/K3-github/DSA_Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0556-next-greater-element-iii) |
