@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/K3-github/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0398-random-pick-index](https://github.com/K3-github/DSA_Leetcode/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/K3-github/DSA_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0282-expression-add-operators](https://github.com/K3-github/DSA_Leetcode/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/K3-github/DSA_Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0398-random-pick-index](https://github.com/K3-github/DSA_Leetcode/tree/master/0398-random-pick-index) |
 | [0509-fibonacci-number](https://github.com/K3-github/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/K3-github/DSA_Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0556-next-greater-element-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0556-next-greater-element-iii) |
@@ -1243,5 +1245,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/K3-github/DSA_Leetcode/tree/master/0398-random-pick-index) |
 | [0528-random-pick-with-weight](https://github.com/K3-github/DSA_Leetcode/tree/master/0528-random-pick-with-weight) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/K3-github/DSA_Leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
