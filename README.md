@@ -711,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/K3-github/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/K3-github/DSA_Leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/K3-github/DSA_Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0754-reach-a-number](https://github.com/K3-github/DSA_Leetcode/tree/master/0754-reach-a-number) |
 | [0778-swim-in-rising-water](https://github.com/K3-github/DSA_Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0825-friends-of-appropriate-ages](https://github.com/K3-github/DSA_Leetcode/tree/master/0825-friends-of-appropriate-ages) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/K3-github/DSA_Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0754-reach-a-number](https://github.com/K3-github/DSA_Leetcode/tree/master/0754-reach-a-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
