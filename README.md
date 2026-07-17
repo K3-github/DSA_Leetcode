@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/K3-github/DSA_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2305-fair-distribution-of-cookies](https://github.com/K3-github/DSA_Leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/K3-github/DSA_Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
@@ -792,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/K3-github/DSA_Leetcode/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2364-count-number-of-bad-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2364-count-number-of-bad-pairs) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/K3-github/DSA_Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K3-github/DSA_Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/K3-github/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [2063-vowels-of-all-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/K3-github/DSA_Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Greedy
 |  |
