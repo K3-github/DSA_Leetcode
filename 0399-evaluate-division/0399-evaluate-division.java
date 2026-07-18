@@ -29,16 +29,10 @@ class Solution {
         for(int i=0;i<n;i++){
             String u=equations.get(i).get(0);
             String v=equations.get(i).get(1);
-            List<Pair> ls=graph.get(u);
-            if(ls==null){
-                graph.put(u,new ArrayList<>());
-            }
+            graph.computeIfAbsent(u,k->new ArrayList<>());
+            graph.computeIfAbsent(v,k->new ArrayList<>());
+            
             graph.get(u).add(new Pair(v,values[i]));
-
-            List<Pair> dls=graph.get(v);
-            if(dls==null){
-                graph.put(v,new ArrayList<>());
-            }
             graph.get(v).add(new Pair(u,1.00000/values[i]));
         }
         double[] ans=new double[queries.size()];
