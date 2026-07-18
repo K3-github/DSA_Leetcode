@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/K3-github/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/K3-github/DSA_Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/2935-maximum-strong-pair-xor-ii) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/K3-github/DSA_Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -880,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-minimum-additions-to-make-valid-string](https://github.com/K3-github/DSA_Leetcode/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2708-maximum-strength-of-a-group](https://github.com/K3-github/DSA_Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/K3-github/DSA_Leetcode/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/K3-github/DSA_Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -920,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-maximum-strength-of-a-group](https://github.com/K3-github/DSA_Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/K3-github/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/K3-github/DSA_Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1111,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/K3-github/DSA_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K3-github/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2270-number-of-ways-to-split-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2270-number-of-ways-to-split-array) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/K3-github/DSA_Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
