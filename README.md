@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/K3-github/DSA_Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1268-search-suggestions-system](https://github.com/K3-github/DSA_Leetcode/tree/master/1268-search-suggestions-system) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/K3-github/DSA_Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1288-remove-covered-intervals](https://github.com/K3-github/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/K3-github/DSA_Leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/K3-github/DSA_Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/K3-github/DSA_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/K3-github/DSA_Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/K3-github/DSA_Leetcode/tree/master/1219-path-with-maximum-gold) |
+| [1254-number-of-closed-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/K3-github/DSA_Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/K3-github/DSA_Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/K3-github/DSA_Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/K3-github/DSA_Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1254-number-of-closed-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/K3-github/DSA_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/K3-github/DSA_Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/K3-github/DSA_Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/K3-github/DSA_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
