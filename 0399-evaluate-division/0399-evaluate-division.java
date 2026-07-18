@@ -8,15 +8,15 @@ class Pair{
     }
 };
 class Solution {
-    private double solve(String node,String target,HashMap<String,List<Pair>> graph,HashMap<String,Boolean> vis){
+    private double solve(String node,String target,HashMap<String,List<Pair>> graph,HashSet<String> vis){
         if(node.equals(target)) return 1.00000;
-        vis.put(node,true);
+        vis.add(node);
         
 
         for(Pair p: graph.get(node)){
             String adjNode=p.node;
             double val=p.val;
-            if(!vis.containsKey(adjNode)){
+            if(!vis.contains(adjNode)){
                 double res=solve(adjNode,target,graph,vis);
                 if(res != -1.00000) return val * res;
             }
@@ -31,13 +31,13 @@ class Solution {
             String v=equations.get(i).get(1);
             graph.computeIfAbsent(u,k->new ArrayList<>());
             graph.computeIfAbsent(v,k->new ArrayList<>());
-            
+
             graph.get(u).add(new Pair(v,values[i]));
             graph.get(v).add(new Pair(u,1.00000/values[i]));
         }
         double[] ans=new double[queries.size()];
         for(int i=0;i<queries.size();i++){
-            HashMap<String,Boolean> vis=new HashMap<>();
+            HashSet<String> vis=new HashSet<>();
             String src=queries.get(i).get(0);
             String target=queries.get(i).get(1);
             if(!graph.containsKey(src) || !graph.containsKey(target)) ans[i]=-1.00000;
