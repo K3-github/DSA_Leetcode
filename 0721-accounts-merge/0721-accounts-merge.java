@@ -59,11 +59,7 @@ class Solution {
             Collections.sort(ans.get(i));
             ans.get(i).add(0, accounts.get(i).get(0));
         }
-        List<List<String>> res = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            if (ans.get(i).size() == 0) continue;
-            res.add(ans.get(i));
-        }
-        return res;
+        ans.removeIf(List::isEmpty);
+        return ans;
     }
 }
