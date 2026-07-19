@@ -15,10 +15,8 @@ class Solution {
         }
         StringBuilder res=new StringBuilder();
         while(st.size()>0){
-            res.append(st.peek());
-            st.pop();
+            res.append(st.pop());
         }
-        res.reverse();
-        return res.toString();
+        return res.reverse().toString();
     }
 }
