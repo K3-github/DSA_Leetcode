@@ -1,22 +1,27 @@
 class Solution {
     public String smallestSubsequence(String s) {
-        int[] f=new int[26];
-        for(char ch: s.toCharArray()) f[ch-'a']++;
+        int[] lastIndex=new int[26];
+        int n=s.length();
+        for(int i=0;i<n;i++){
+             char ch=s.charAt(i);
+             lastIndex[ch-'a']=i;
+        }
+        boolean[] vis=new boolean[26];
         Stack<Character> st=new Stack<>();
-        int[] seen=new int[26];
-        for(char ch: s.toCharArray()){
-            f[ch-'a']--;
-            if(seen[ch-'a']==1) continue;
-            while(st.size()>0 && st.peek()>ch && f[st.peek()-'a']>0){
-                seen[st.pop()-'a']=0;
+        for(int i=0;i<n;i++){
+            char ch=s.charAt(i);
+            if(vis[ch-'a']) continue;
+            while(st.size()>0 && st.peek()>=ch && lastIndex[st.peek()-'a']>i){
+                    vis[st.peek()-'a']=false;
+                    st.pop();
             }
             st.push(ch);
-            seen[ch-'a']=1;
+            vis[ch-'a']=true;
         }
-        StringBuilder res=new StringBuilder();
+        StringBuilder ans=new StringBuilder();
         while(st.size()>0){
-            res.append(st.pop());
+            ans.append(st.pop());
         }
-        return res.reverse().toString();
+        return ans.reverse().toString();
     }
 }
