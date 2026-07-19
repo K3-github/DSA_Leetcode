@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2305-fair-distribution-of-cookies](https://github.com/K3-github/DSA_Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2364-count-number-of-bad-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2364-count-number-of-bad-pairs) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/K3-github/DSA_Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/K3-github/DSA_Leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K3-github/DSA_Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [1992-find-all-groups-of-farmland](https://github.com/K3-github/DSA_Leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K3-github/DSA_Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/K3-github/DSA_Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K3-github/DSA_Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2065-maximum-path-quality-of-a-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K3-github/DSA_Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/K3-github/DSA_Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -623,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2034-stock-price-fluctuation](https://github.com/K3-github/DSA_Leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2262-total-appeal-of-a-string](https://github.com/K3-github/DSA_Leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [2364-count-number-of-bad-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2364-count-number-of-bad-pairs) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2465-number-of-distinct-averages](https://github.com/K3-github/DSA_Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -1346,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
 | ------- |
