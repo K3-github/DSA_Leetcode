@@ -35,11 +35,7 @@ class Solution {
         StringBuilder sb=new StringBuilder();
         for(int i=0;i<baseStr.length();i++){
             int node=baseStr.charAt(i)-'a';
-            int mnValue=ds.findUlp(node);
-            if(mnValue<node){
-                sb.append((char)(mnValue+'a'));
-            }
-            else sb.append((char)(node+'a'));
+            sb.append((char)(ds.findUlp(node)+'a'));
         }
         return sb.toString();
     }
