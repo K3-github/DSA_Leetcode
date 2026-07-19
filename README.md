@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2424-longest-uploaded-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/2424-longest-uploaded-prefix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K3-github/DSA_Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-total-appeal-of-a-string](https://github.com/K3-github/DSA_Leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [2364-count-number-of-bad-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2424-longest-uploaded-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/2424-longest-uploaded-prefix) |
 | [2465-number-of-distinct-averages](https://github.com/K3-github/DSA_Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K3-github/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/K3-github/DSA_Leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
+| [2424-longest-uploaded-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/2424-longest-uploaded-prefix) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/K3-github/DSA_Leetcode/tree/master/1696-jump-game-vi) |
 | [2034-stock-price-fluctuation](https://github.com/K3-github/DSA_Leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2424-longest-uploaded-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/2424-longest-uploaded-prefix) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/K3-github/DSA_Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -1050,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/K3-github/DSA_Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2424-longest-uploaded-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1057,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/K3-github/DSA_Leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2424-longest-uploaded-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/2424-longest-uploaded-prefix) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 ## Enumeration
 |  |
@@ -1154,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/K3-github/DSA_Leetcode/tree/master/1472-design-browser-history) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2034-stock-price-fluctuation](https://github.com/K3-github/DSA_Leetcode/tree/master/2034-stock-price-fluctuation) |
+| [2424-longest-uploaded-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1276,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0327-count-of-range-sum) |
 | [0456-132-pattern](https://github.com/K3-github/DSA_Leetcode/tree/master/0456-132-pattern) |
 | [2034-stock-price-fluctuation](https://github.com/K3-github/DSA_Leetcode/tree/master/2034-stock-price-fluctuation) |
+| [2424-longest-uploaded-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/2424-longest-uploaded-prefix) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/K3-github/DSA_Leetcode/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
 ## Trie
