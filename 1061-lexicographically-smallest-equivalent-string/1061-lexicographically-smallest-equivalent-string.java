@@ -1,35 +1,45 @@
-class Solution {
-    private int solve(int node,List<List<Integer>> g,boolean[] vis){
-        vis[node]=true;
+class DisJointSet{
+    List<Integer> par=new ArrayList<>();
 
-        int ans=26;
-        for(Integer adjNode: g.get(node)){
-            if(!vis[adjNode]){
-                ans=Math.min(ans,solve(adjNode,g,vis));
-            }
+    DisJointSet(int n){
+        for(int i=0;i<n;i++){
+            par.add(i);
         }
-        return Math.min(ans,node);
     }
-    public String smallestEquivalentString(String s1, String s2, String baseStr) {
-        List<List<Integer>> g=new ArrayList<>();
-        for(int i=0;i<26;i++){
-            g.add(new ArrayList<>());
+    int findUlp(int node){
+        if(par.get(node)==node) return node;
+        int ulp=findUlp(par.get(node));
+        par.set(node,ulp);
+        return par.get(node);
+    }
+    void unionByMinParentVal(int u,int v){
+        int ulp_u=findUlp(u);
+        int ulp_v=findUlp(v);
+        if(ulp_u==ulp_v) return;
+        else if(ulp_u<ulp_v){
+            par.set(ulp_v,ulp_u);
         }
+        else{
+            par.set(ulp_u,ulp_v);
+        }
+    }
+};
+class Solution {
+    public String smallestEquivalentString(String s1, String s2, String baseStr) {
+        DisJointSet ds=new DisJointSet(26);
         for(int i=0;i<s1.length();i++){
             int u=s1.charAt(i)-'a';
             int v=s2.charAt(i)-'a';
-            g.get(u).add(v);
-            g.get(v).add(u);
+            ds.unionByMinParentVal(u,v);
         }
         StringBuilder sb=new StringBuilder();
         for(int i=0;i<baseStr.length();i++){
-            char ch=baseStr.charAt(i);
-            boolean[] vis=new boolean[26];
-            int mnChar=solve(ch-'a',g,vis);
-            if(mnChar<(ch-'a')){
-                sb.append((char)(mnChar+'a'));
+            int node=baseStr.charAt(i)-'a';
+            int mnValue=ds.findUlp(node);
+            if(mnValue<node){
+                sb.append((char)(mnValue+'a'));
             }
-            else sb.append(ch);
+            else sb.append((char)(node+'a'));
         }
         return sb.toString();
     }
