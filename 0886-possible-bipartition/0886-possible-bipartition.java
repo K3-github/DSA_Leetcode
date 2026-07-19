@@ -1,10 +1,9 @@
 class Solution {
     private boolean solve(int node,List<List<Integer>> graph,int[] color){
-        
         for(Integer adjNode: graph.get(node)){
             if(color[adjNode]==-1){
                 color[adjNode]=1-color[node];
-                if(solve(adjNode,graph,color)==false){
+                if(!solve(adjNode,graph,color)){
                     return false;
                 }
             }
@@ -28,7 +27,7 @@ class Solution {
         for(int i=0;i<n;i++){
             if(color[i]==-1){
                 color[i]=0;
-                if(solve(i,graph,color)==false) return false;
+                if(!solve(i,graph,color)) return false;
             }
         }
         return true;
