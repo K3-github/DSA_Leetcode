@@ -7,9 +7,8 @@ class Solution {
             while(st.size()>Math.max(0,k-tre) && st.peek()>nums[i]){
                 st.pop();
             }
-            st.push(nums[i]);
+            if(st.size()<k) st.push(nums[i]);
         }
-        while(st.size()>k) st.pop();
         int[] ans=new int[st.size()];
         int ind=st.size()-1;
         while(st.size()>0){
