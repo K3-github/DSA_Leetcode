@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/K3-github/DSA_Leetcode/tree/master/1472-design-browser-history) |
 | [1512-number-of-good-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1514-path-with-maximum-probability](https://github.com/K3-github/DSA_Leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K3-github/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/K3-github/DSA_Leetcode/tree/master/1345-jump-game-iv) |
 | [1361-validate-binary-tree-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/K3-github/DSA_Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1463-cherry-pickup-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1905-count-sub-islands) |
 | [1992-find-all-groups-of-farmland](https://github.com/K3-github/DSA_Leetcode/tree/master/1992-find-all-groups-of-farmland) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/K3-github/DSA_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1905-count-sub-islands) |
 | [1938-maximum-genetic-difference-query](https://github.com/K3-github/DSA_Leetcode/tree/master/1938-maximum-genetic-difference-query) |
@@ -402,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/K3-github/DSA_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
