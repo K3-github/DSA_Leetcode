@@ -1,8 +1,7 @@
 class Solution {
     int[] drow=new int[]{0,+1,0,-1};
     int[] dcol=new int[]{+1,0,-1,0};
-    private void solve(int row,int col,int[][] mat){
-        int n=mat.length;
+    private void solve(int row,int col,int[][] mat,int n){
         if(row<0 || row>=n || col<0 || col>=n || mat[row][col]==1) return;
 
         mat[row][col]=1;
@@ -10,7 +9,7 @@ class Solution {
         for(int d=0;d<4;d++){
             int nrow=row+drow[d];
             int ncol=col+dcol[d];
-            solve(nrow,ncol,mat);
+            solve(nrow,ncol,mat,n);
         }
     }
     public int regionsBySlashes(String[] grid) {
@@ -35,7 +34,7 @@ class Solution {
         for(int i=0;i<3*n;i++){
             for(int j=0;j<3*n;j++){
                 if(mat[i][j]==0){
-                    solve(i,j,mat);
+                    solve(i,j,mat,3*n);
                     regions++;
                 }
             }
