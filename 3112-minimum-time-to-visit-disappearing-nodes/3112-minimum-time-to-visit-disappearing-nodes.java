@@ -34,14 +34,16 @@ class Solution {
             int currTime=p.time;
             int currNode=p.node;
             
-            if(currTime>=disappear[currNode] || currTime>minTime[currNode]) continue;
+            if(currTime>=disappear[currNode] || currTime>minTime[currNode]){
+                continue;
+            }
 
             for(Pair pr: graph.get(currNode)){
                  int childNode=pr.node;
-                 int reqTime=pr.time;
-                 if(reqTime+currTime<minTime[childNode] && reqTime+currTime<disappear[childNode]){
-                    minTime[childNode]=reqTime+currTime;
-                    pq.offer(new Pair(minTime[childNode],childNode));
+                 int nextTime=pr.time+currTime;
+                 if(nextTime<minTime[childNode] && nextTime<disappear[childNode]){
+                    minTime[childNode]=nextTime;
+                    pq.offer(new Pair(nextTime,childNode));
                  }
             }
         }
