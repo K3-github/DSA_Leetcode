@@ -1,10 +1,10 @@
 class Solution {
-    private void dfs(int node,List<List<Integer>> graph,List<Integer> ancestors,boolean[] vis){
+    private void dfs(int node,int start,List<List<Integer>> graph,List<Integer> ancestors,boolean[] vis){
         if(vis[node]) return;
         vis[node]=true;
-        ancestors.add(node);
+        if(node!=start) ancestors.add(node);
         for(Integer adjNode: graph.get(node)){
-            if(!vis[adjNode])dfs(adjNode,graph,ancestors,vis);
+            if(!vis[adjNode])dfs(adjNode,start,graph,ancestors,vis);
         }
     }
     public List<List<Integer>> getAncestors(int n, int[][] edges) {
@@ -20,8 +20,7 @@ class Solution {
         for(int i=0;i<n;i++){
             List<Integer> ancestors=new ArrayList<>();
             boolean[] vis=new boolean[n];
-            dfs(i,graph,ancestors,vis);
-            ancestors.remove(0);
+            dfs(i,i,graph,ancestors,vis);
             Collections.sort(ancestors);
             ans.add(new ArrayList<>(ancestors));
         }
