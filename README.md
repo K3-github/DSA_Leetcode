@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3093-longest-common-suffix-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/3093-longest-common-suffix-queries) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/K3-github/DSA_Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/K3-github/DSA_Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/K3-github/DSA_Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -879,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/K3-github/DSA_Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
