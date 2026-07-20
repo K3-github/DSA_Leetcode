@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/K3-github/DSA_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/K3-github/DSA_Leetcode/tree/master/1268-search-suggestions-system) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/K3-github/DSA_Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/K3-github/DSA_Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/K3-github/DSA_Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/K3-github/DSA_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/K3-github/DSA_Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -1247,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/K3-github/DSA_Leetcode/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3597-partition-string](https://github.com/K3-github/DSA_Leetcode/tree/master/3597-partition-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
