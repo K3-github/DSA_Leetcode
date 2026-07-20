@@ -18,22 +18,17 @@ class Solution {
     public List<List<Integer>> shiftGrid(int[][] grid, int k) {
         int n=grid.length;
         int m=grid[0].length;
-        while(k>0){
+        while(k>0){ 
             for(int col=m-1;col>=1;col--){
                 swap(grid,col,col-1);
             }
             shiftRowElementByOne(grid,0);
             k--;
         }
-        List<List<Integer>> ans=new ArrayList<>();
-        for(int i=0;i<n;i++){
-            ans.add(new ArrayList<>());
-        }
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                ans.get(i).add(grid[i][j]);
-            }
-        }
-        return ans;
+        return Arrays.stream(grid)
+                     .map(row -> Arrays.stream(row)
+                          .boxed()
+                          .collect(Collectors.toList()))
+                          .collect(Collectors.toList());
     }
 }
