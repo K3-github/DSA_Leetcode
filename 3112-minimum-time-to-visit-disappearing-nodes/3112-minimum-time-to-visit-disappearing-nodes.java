@@ -22,10 +22,6 @@ class Solution {
        return graph;
     }
     public int[] minimumTime(int n, int[][] edges, int[] disappear) {
-        HashMap<Integer,Integer> nodes=new HashMap<>();
-        for(int i=0;i<disappear.length;i++){
-            nodes.put(i,disappear[i]);
-        }
         List<List<Pair>> graph=createGraph(n,edges);
         PriorityQueue<Pair> pq=new PriorityQueue<>((a,b) -> a.time - b.time);
         int[] minTime=new int[n];
@@ -38,11 +34,7 @@ class Solution {
             int currTime=p.time;
             int currNode=p.node;
             
-            if(nodes.containsKey(currNode) && nodes.get(currNode)<=currTime){
-                minTime[currNode]=-1;
-                continue;
-            }
-            if(currTime>minTime[currNode]) continue;
+            if(currTime>minTime[currNode] || currTime>=disappear[currNode]) continue;
 
             for(Pair pr: graph.get(currNode)){
                  int childNode=pr.node;
@@ -54,7 +46,7 @@ class Solution {
             }
         }
         for(int i=0;i<n;i++){
-            if(minTime[i]==INF) minTime[i]=-1;
+            if(minTime[i]>=disappear[i]) minTime[i]=-1;
         }
         return minTime;
     }
