@@ -8,7 +8,7 @@ class Solution {
             if(!vis[adjNode]) solve(adjNode,graph,vis);
         }
     }
-    private boolean isPossible(int n,int[][] edges,int threshold,int mw){
+    private boolean isPossible(int n,int[][] edges,int mw){
         List<List<Integer>> graph=new ArrayList<>();
         for(int i=0;i<n;i++){
             graph.add(new ArrayList<>());
@@ -28,7 +28,7 @@ class Solution {
         int low=0,high=1000000;
         while(low<=high){
             int mid=(low+high) >> 1;
-            if(isPossible(n,edges,threshold,mid)){
+            if(isPossible(n,edges,mid)){
                 high=mid-1;
             }
             else{
