@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1514-path-with-maximum-probability](https://github.com/K3-github/DSA_Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1615-maximal-network-rank](https://github.com/K3-github/DSA_Leetcode/tree/master/1615-maximal-network-rank) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/K3-github/DSA_Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1791-find-center-of-star-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/K3-github/DSA_Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/K3-github/DSA_Leetcode/tree/master/1696-jump-game-vi) |
 | [1745-palindrome-partitioning-iv](https://github.com/K3-github/DSA_Leetcode/tree/master/1745-palindrome-partitioning-iv) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/K3-github/DSA_Leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/K3-github/DSA_Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/K3-github/DSA_Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/K3-github/DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/K3-github/DSA_Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/K3-github/DSA_Leetcode/tree/master/0851-loud-and-rich) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/K3-github/DSA_Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/K3-github/DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3620-network-recovery-pathways](https://github.com/K3-github/DSA_Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -869,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/K3-github/DSA_Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1696-jump-game-vi](https://github.com/K3-github/DSA_Leetcode/tree/master/1696-jump-game-vi) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/K3-github/DSA_Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [2034-stock-price-fluctuation](https://github.com/K3-github/DSA_Leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2424-longest-uploaded-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/2424-longest-uploaded-prefix) |
@@ -892,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/K3-github/DSA_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/K3-github/DSA_Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/K3-github/DSA_Leetcode/tree/master/1514-path-with-maximum-probability) |
+| [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/K3-github/DSA_Leetcode/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/K3-github/DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
