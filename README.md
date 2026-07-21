@@ -761,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/K3-github/DSA_Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/K3-github/DSA_Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3597-partition-string](https://github.com/K3-github/DSA_Leetcode/tree/master/3597-partition-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -1113,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/1291-sequential-digits) |
 | [2708-maximum-strength-of-a-group](https://github.com/K3-github/DSA_Leetcode/tree/master/2708-maximum-strength-of-a-group) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Interactive
 |  |
 | ------- |
