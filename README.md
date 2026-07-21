@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1992-find-all-groups-of-farmland](https://github.com/K3-github/DSA_Leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/K3-github/DSA_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/K3-github/DSA_Leetcode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/K3-github/DSA_Leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [1992-find-all-groups-of-farmland](https://github.com/K3-github/DSA_Leetcode/tree/master/1992-find-all-groups-of-farmland) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/K3-github/DSA_Leetcode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/K3-github/DSA_Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/K3-github/DSA_Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2039-the-time-when-the-network-becomes-idle](https://github.com/K3-github/DSA_Leetcode/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
