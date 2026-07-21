@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/K3-github/DSA_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/K3-github/DSA_Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/K3-github/DSA_Leetcode/tree/master/0399-evaluate-division) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/K3-github/DSA_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/K3-github/DSA_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0310-minimum-height-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/K3-github/DSA_Leetcode/tree/master/0399-evaluate-division) |
 | [0472-concatenated-words](https://github.com/K3-github/DSA_Leetcode/tree/master/0472-concatenated-words) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/K3-github/DSA_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/K3-github/DSA_Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/K3-github/DSA_Leetcode/tree/master/0547-number-of-provinces) |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/K3-github/DSA_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/K3-github/DSA_Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/K3-github/DSA_Leetcode/tree/master/0851-loud-and-rich) |
