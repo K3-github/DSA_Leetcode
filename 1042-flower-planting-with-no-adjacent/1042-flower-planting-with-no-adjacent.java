@@ -14,7 +14,7 @@ class Solution {
     private void dfs(int node,List<List<Integer>> graph,int[] answer){
            HashSet<Integer> color=new HashSet<>();
            for(Integer adjNode: graph.get(node)){
-                  color.add(answer[adjNode]);
+                  if(answer[adjNode]!=-1) color.add(answer[adjNode]);
            }
            for(int i=1;i<=4;i++){
               if(!color.contains(i)){
