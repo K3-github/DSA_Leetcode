@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/K3-github/DSA_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/K3-github/DSA_Leetcode/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0677-map-sum-pairs) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/K3-github/DSA_Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0556-next-greater-element-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/K3-github/DSA_Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/K3-github/DSA_Leetcode/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/0676-implement-magic-dictionary) |
@@ -1103,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/K3-github/DSA_Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/K3-github/DSA_Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/K3-github/DSA_Leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -1258,6 +1261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/K3-github/DSA_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/K3-github/DSA_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/K3-github/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/K3-github/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
