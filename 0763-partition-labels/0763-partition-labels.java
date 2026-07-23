@@ -7,7 +7,7 @@ class Solution {
             lastIndex[ch-'a']=i;
         }
         int left=0;
-        int mxReach=-1;
+        int mxReach=0;
         List<Integer> ans=new ArrayList<>();
         for(int right=0;right<n;right++){
             char ch=s.charAt(right);
