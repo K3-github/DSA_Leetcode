@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/K3-github/DSA_Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/K3-github/DSA_Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/K3-github/DSA_Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2405-optimal-partition-of-string](https://github.com/K3-github/DSA_Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2424-longest-uploaded-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/2424-longest-uploaded-prefix) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/K3-github/DSA_Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -1272,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/K3-github/DSA_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/K3-github/DSA_Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K3-github/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/K3-github/DSA_Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/2935-maximum-strong-pair-xor-ii) |
