@@ -7,10 +7,10 @@ class Solution {
         return 4;
     }
     public int longestBeautifulSubstring(String word) {
-        HashMap<Character,Integer> mp=new HashMap<>();
         int left=0,right=0;
         int ans=0;
         int n=word.length();
+        int distinct=0;
         while(right<n){
             while(left<n && word.charAt(left)!='a'){
                 left++;
@@ -18,7 +18,7 @@ class Solution {
             if(left==n) return ans;
             right=left+1;
             char prev=word.charAt(left);
-            mp.put(prev,mp.getOrDefault(prev,0)+1);
+            distinct++;
             while(right<n){
                 char next=word.charAt(right);
                 int prevOrder = getOrder(prev);
@@ -27,13 +27,13 @@ class Solution {
                     prev=next;right++;
                 }
                 else break;
-                mp.put(next,mp.getOrDefault(next,0)+1);
-                if(mp.size()==5){
+                if(nextOrder==prevOrder+1) distinct++;
+                if(distinct==5){
                     ans=Math.max(ans,right-left);
                 }
             }
             left=right;
-            mp.clear();
+            distinct=0;
         }
         return ans;
     }
