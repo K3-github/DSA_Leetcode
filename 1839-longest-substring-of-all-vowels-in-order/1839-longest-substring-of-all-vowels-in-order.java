@@ -21,7 +21,9 @@ class Solution {
             mp.put(prev,mp.getOrDefault(prev,0)+1);
             while(right<n){
                 char next=word.charAt(right);
-                if(getOrder(next)==getOrder(prev) || getOrder(next)==getOrder(prev)+1){
+                int prevOrder = getOrder(prev);
+                int nextOrder = getOrder(next);
+                if(nextOrder==prevOrder || nextOrder==prevOrder+1){
                     prev=next;right++;
                 }
                 else break;
