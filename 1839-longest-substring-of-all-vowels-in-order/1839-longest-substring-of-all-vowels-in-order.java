@@ -1,4 +1,11 @@
 class Solution {
+    private int getOrder(char ch){
+        if(ch=='a') return 0;
+        if(ch=='e') return 1;
+        if(ch=='i') return 2;
+        if(ch=='o') return 3;
+        return 4;
+    }
     public int longestBeautifulSubstring(String word) {
         HashMap<Character,Integer> mp=new HashMap<>();
         int left=0,right=0;
@@ -14,25 +21,8 @@ class Solution {
             mp.put(prev,mp.getOrDefault(prev,0)+1);
             while(right<n){
                 char next=word.charAt(right);
-                if(prev=='a' && (next=='a' || next=='e')){
-                    prev=next;
-                    right++;
-                }
-                else if(prev=='e' && (next=='e' || next=='i')){
-                    prev=next;
-                    right++;
-                }
-                else if(prev=='i' && (next=='i' || next=='o')){
-                    prev=next;
-                    right++;
-                }
-                else if(prev=='o' && (next=='o' || next=='u')){
-                    prev=next;
-                    right++;
-                }
-                else if(prev=='u' && next=='u'){
-                    prev=next;
-                    right++;
+                if(getOrder(next)==getOrder(prev) || getOrder(next)==getOrder(prev)+1){
+                    prev=next;right++;
                 }
                 else break;
                 mp.put(next,mp.getOrDefault(next,0)+1);
