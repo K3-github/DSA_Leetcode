@@ -10,7 +10,6 @@ class Solution {
         int left=0,right=0;
         int ans=0;
         int n=word.length();
-        int distinct=0;
         while(right<n){
             while(left<n && word.charAt(left)!='a'){
                 left++;
@@ -18,7 +17,7 @@ class Solution {
             if(left==n) return ans;
             right=left+1;
             char prev=word.charAt(left);
-            distinct++;
+            int distinct = 1;
             while(right<n){
                 char next=word.charAt(right);
                 int prevOrder = getOrder(prev);
@@ -33,7 +32,6 @@ class Solution {
                 }
             }
             left=right;
-            distinct=0;
         }
         return ans;
     }
