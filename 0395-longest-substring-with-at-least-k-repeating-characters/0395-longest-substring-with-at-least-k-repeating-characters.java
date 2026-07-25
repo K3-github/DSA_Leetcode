@@ -1,13 +1,14 @@
 class Solution {
     private int solve(int i,int j,String s,int k){
-        HashMap<Character,Integer> freq=new HashMap<>();
+        if(i>j || j-i+1<k) return 0;
+        int[] freq=new int[26];
         for(int ptr=i;ptr<=j;ptr++){
             char ch=s.charAt(ptr);
-            freq.put(ch,freq.getOrDefault(ch,0)+1);
+            freq[ch-'a']++;
         }
         for(int ptr=i;ptr<=j;ptr++){
             char ch=s.charAt(ptr);
-            if(freq.get(ch)<k){
+            if(freq[ch-'a']<k){
                 return Math.max(solve(i,ptr-1,s,k),solve(ptr+1,j,s,k));
             }
         }
