@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K3-github/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/K3-github/DSA_Leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/K3-github/DSA_Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/K3-github/DSA_Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -955,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/K3-github/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0282-expression-add-operators](https://github.com/K3-github/DSA_Leetcode/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/K3-github/DSA_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0398-random-pick-index](https://github.com/K3-github/DSA_Leetcode/tree/master/0398-random-pick-index) |
@@ -1118,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/K3-github/DSA_Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/K3-github/DSA_Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/K3-github/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/K3-github/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/K3-github/DSA_Leetcode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/K3-github/DSA_Leetcode/tree/master/0475-heaters) |
