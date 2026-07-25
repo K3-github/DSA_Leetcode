@@ -771,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/K3-github/DSA_Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1745-palindrome-partitioning-iv](https://github.com/K3-github/DSA_Leetcode/tree/master/1745-palindrome-partitioning-iv) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/K3-github/DSA_Leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1980-find-unique-binary-string](https://github.com/K3-github/DSA_Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/K3-github/DSA_Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -1282,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/K3-github/DSA_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/K3-github/DSA_Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K3-github/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/K3-github/DSA_Leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/K3-github/DSA_Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2401-longest-nice-subarray](https://github.com/K3-github/DSA_Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
