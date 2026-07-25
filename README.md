@@ -981,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/K3-github/DSA_Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/K3-github/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -1099,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/K3-github/DSA_Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/K3-github/DSA_Leetcode/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3613-minimize-maximum-component-cost](https://github.com/K3-github/DSA_Leetcode/tree/master/3613-minimize-maximum-component-cost) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
