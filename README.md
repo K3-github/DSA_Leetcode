@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/K3-github/DSA_Leetcode/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/K3-github/DSA_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/K3-github/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1905-count-sub-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1905-count-sub-islands) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/K3-github/DSA_Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K3-github/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/K3-github/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/K3-github/DSA_Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/K3-github/DSA_Leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2424-longest-uploaded-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/2424-longest-uploaded-prefix) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/K3-github/DSA_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/K3-github/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/K3-github/DSA_Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2126-destroying-asteroids](https://github.com/K3-github/DSA_Leetcode/tree/master/2126-destroying-asteroids) |
@@ -1081,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/K3-github/DSA_Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/K3-github/DSA_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/K3-github/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/K3-github/DSA_Leetcode/tree/master/2126-destroying-asteroids) |
 | [2465-number-of-distinct-averages](https://github.com/K3-github/DSA_Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
@@ -1283,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/K3-github/DSA_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/K3-github/DSA_Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K3-github/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/K3-github/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/K3-github/DSA_Leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/K3-github/DSA_Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2401-longest-nice-subarray](https://github.com/K3-github/DSA_Leetcode/tree/master/2401-longest-nice-subarray) |
@@ -1305,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/K3-github/DSA_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K3-github/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/K3-github/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/K3-github/DSA_Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2270-number-of-ways-to-split-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/K3-github/DSA_Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
