@@ -40,21 +40,13 @@ class Solution {
         for(int i=0;i<n;i++){
             int ulp=ds.findUlp(i);
             List<Integer> li=mp.get(ulp);
-            if(li==null){
-                mp.put(ulp,new ArrayList<>());
-            }
-            mp.get(ulp).add(i);
+            mp.computeIfAbsent(ulp, x -> new ArrayList<>()).add(arr[i]);
         }
         long ans=0;
         for(Map.Entry<Integer,List<Integer>> e: mp.entrySet()){
-            List<Integer> values=new ArrayList<>();
-            List<Integer> indexs=e.getValue();
-            int size=indexs.size();
-            for(int i=0;i<size;i++){
-                int ind=indexs.get(i);
-                values.add(arr[ind]);
-            }
+            List<Integer> values=e.getValue();
             Collections.sort(values);
+            int size=values.size();
             int mid=values.get(size/2);
             long cost=0;
             for(int i=0;i<size;i++){
