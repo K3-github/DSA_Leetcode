@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/K3-github/DSA_Leetcode/tree/master/0948-bag-of-tokens) |
 | [0959-regions-cut-by-slashes](https://github.com/K3-github/DSA_Leetcode/tree/master/0959-regions-cut-by-slashes) |
+| [0962-maximum-width-ramp](https://github.com/K3-github/DSA_Leetcode/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/K3-github/DSA_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0980-unique-paths-iii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/K3-github/DSA_Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
@@ -1176,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/K3-github/DSA_Leetcode/tree/master/0881-boats-to-save-people) |
 | [0923-3sum-with-multiplicity](https://github.com/K3-github/DSA_Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0948-bag-of-tokens](https://github.com/K3-github/DSA_Leetcode/tree/master/0948-bag-of-tokens) |
+| [0962-maximum-width-ramp](https://github.com/K3-github/DSA_Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1023-camelcase-matching](https://github.com/K3-github/DSA_Leetcode/tree/master/1023-camelcase-matching) |
 | [1048-longest-string-chain](https://github.com/K3-github/DSA_Leetcode/tree/master/1048-longest-string-chain) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/K3-github/DSA_Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1284,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/K3-github/DSA_Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/K3-github/DSA_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/K3-github/DSA_Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1472-design-browser-history](https://github.com/K3-github/DSA_Leetcode/tree/master/1472-design-browser-history) |
@@ -1389,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/K3-github/DSA_Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/K3-github/DSA_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/K3-github/DSA_Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2104-sum-of-subarray-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/2104-sum-of-subarray-ranges) |
