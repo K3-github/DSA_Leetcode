@@ -7,13 +7,11 @@ class Solution {
             while(right<n-1 && chars[right]==chars[right+1]){
                 count++;right++;
             }
-            chars[left]=chars[right];
-            left++;right++;
-            if(count==1) continue;
-            String str=String.valueOf(count);
-            for(char ch: str.toCharArray()){
-                chars[left]=ch;
-                left++;
+            chars[left++]=chars[right++];
+            if(count>1){
+                for(char ch: String.valueOf(count).toCharArray()){
+                    chars[left++]=ch;
+                }
             }
         }
         return left;
