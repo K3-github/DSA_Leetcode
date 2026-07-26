@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/K3-github/DSA_Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/K3-github/DSA_Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/K3-github/DSA_Leetcode/tree/master/0037-sudoku-solver) |
@@ -1074,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/K3-github/DSA_Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/K3-github/DSA_Leetcode/tree/master/0148-sort-list) |
@@ -1124,6 +1126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/K3-github/DSA_Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/K3-github/DSA_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/K3-github/DSA_Leetcode/tree/master/0042-trapping-rain-water) |
