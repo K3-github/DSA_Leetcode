@@ -8,6 +8,7 @@ class Solution {
         Arrays.sort(v,(a,b) -> a[0] - b[0]);
         Arrays.sort(nums1);
         int[] ans=new int[n];
+        boolean[] used=new boolean[n];
         int i=0,j=0;
         while(i<n){
             if(nums1[i]<=v[j][0]){
@@ -15,13 +16,13 @@ class Solution {
             }
             else{
                 ans[v[j][1]]=nums1[i];
-                nums1[i]=-1;
+                used[i]=true;
                 i++;j++;
             }
         }
         i=0;
         while(i<n){
-            if(nums1[i]!=-1){
+            if(!used[i]){
                 ans[v[j][1]]=nums1[i];
                 j++;
             }
