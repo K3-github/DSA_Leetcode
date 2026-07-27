@@ -25,16 +25,17 @@ class Solution {
 
         return height[root.val] = 1 + Math.max(left, right);
     }
-    private void dfs(TreeNode root, int depth, int rest) {
-        if(root == null) return;
-        ans[root.val] = rest;
-        if (root.left != null) {
-            int rightHeight = (root.right == null) ? -1 : height[root.right.val];
-            dfs(root.left,depth + 1,Math.max(rest, depth + 1 + rightHeight));
+    private void dfs(TreeNode root,int depth,int rest){
+        if(root==null) return;
+        ans[root.val]=rest;
+
+        if(root.left!=null){
+            int rightHeight=root.right==null ? -1 : height[root.right.val];
+            dfs(root.left,depth+1,Math.max(rest,depth+1+rightHeight));
         }
-        if (root.right != null) {
-            int leftHeight = (root.left == null) ? -1 : height[root.left.val];
-            dfs(root.right,depth + 1,Math.max(rest, depth + 1 + leftHeight));
+        if(root.right!=null){
+            int leftHeight=root.left==null ? -1 : height[root.left.val];
+            dfs(root.right,depth+1,Math.max(rest,depth+1+leftHeight));
         }
     }
     public int[] treeQueries(TreeNode root, int[] queries) {
