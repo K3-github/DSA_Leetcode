@@ -14,19 +14,13 @@
  * }
  */
 class Solution {
-    int ans=0;
-    private void solve(TreeNode root,int pathNum){
-        if(root==null) return;
-        pathNum=10*pathNum+root.val;
-        if(root.left==null && root.right==null){
-            ans+=pathNum;
-            return;
-        }
-        solve(root.left,pathNum);
-        solve(root.right,pathNum);
+    private int solve(TreeNode root,int curr){
+        if(root==null) return 0;
+        curr=10*curr+root.val;
+        if(root.left==null && root.right==null) return curr;
+        return solve(root.left,curr)+solve(root.right,curr);
     }
     public int sumNumbers(TreeNode root) {
-        solve(root,0);
-        return ans;
+        return solve(root,0);
     }
 }
