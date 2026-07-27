@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/K3-github/DSA_Leetcode/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/K3-github/DSA_Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/K3-github/DSA_Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K3-github/DSA_Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K3-github/DSA_Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/K3-github/DSA_Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -1529,8 +1532,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
 | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 <!---LeetCode Topics End-->
