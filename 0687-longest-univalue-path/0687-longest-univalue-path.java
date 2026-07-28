@@ -20,16 +20,13 @@ class Solution {
 
         int left=solve(root.left);
         int right=solve(root.right);
-        int res=1;
-        if(root.left!=null && root.val==root.left.val){
-            res+=left;
+        if(root.left==null || root.val!=root.left.val){
+            left=0;
         }
-        else left=0;
-        if(root.right!=null && root.val==root.right.val){
-            res+=right;
+        if(root.right==null || root.val!=root.right.val){
+            right=0;
         }
-        else right=0;
-        ans=Math.max(ans,res);
+        ans=Math.max(ans,1+left+right);
         return 1+Math.max(left,right);
     }
     public int longestUnivaluePath(TreeNode root) {
