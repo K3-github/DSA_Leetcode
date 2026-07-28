@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/K3-github/DSA_Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/K3-github/DSA_Leetcode/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/K3-github/DSA_Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/K3-github/DSA_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -997,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/K3-github/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0282-expression-add-operators](https://github.com/K3-github/DSA_Leetcode/tree/master/0282-expression-add-operators) |
 | [0368-largest-divisible-subset](https://github.com/K3-github/DSA_Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -1559,6 +1561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0508-most-frequent-subtree-sum) |
@@ -1577,6 +1580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0508-most-frequent-subtree-sum) |
@@ -1594,6 +1598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0538-convert-bst-to-greater-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
