@@ -14,20 +14,27 @@
  * }
  */
 class Solution {
+    int id=1;
     List<TreeNode> ans=new ArrayList<>();
-    HashMap<String,Integer> mp=new HashMap<>();
-    private String solve(TreeNode root){
-        if(root==null) return "#";
+    HashMap<Integer,Integer> freq=new HashMap<>();
+    HashMap<String,Integer> ids=new HashMap<>();
+    private int solve(TreeNode root){
+        if(root==null) return 0;
 
-        String left=solve(root.left);
-        String right=solve(root.right);
+        int leftId=solve(root.left);
+        int rightId=solve(root.right);
 
-        String s=root.val+','+left+right;
-        if(mp.containsKey(s) && mp.get(s)==1){
+        String key=root.val + "," + leftId + "," + rightId;
+        if(!ids.containsKey(key)){
+            ids.put(key,id++);
+        }
+
+        int currId=ids.get(key);
+        freq.put(currId,freq.getOrDefault(currId,0)+1);
+        if(freq.get(currId)==2){
             ans.add(root);
         }
-        mp.put(s,mp.getOrDefault(s,0)+1);
-        return s;
+        return currId;
     }
     public List<TreeNode> findDuplicateSubtrees(TreeNode root) {
         solve(root);
