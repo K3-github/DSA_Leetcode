@@ -20,15 +20,14 @@ class Solution {
         if(root==null) return;
         if(root.left==null && root.right==null){
             if(currDepth>mxDepth){
+                mxDepth=currDepth;
                 ans=root.val;
             }
             else if(currDepth==mxDepth){
                 ans+=root.val;
             }
-            mxDepth=Math.max(mxDepth,currDepth);
             return;
         }
-        mxDepth=Math.max(mxDepth,currDepth);
         solve(root.left,currDepth+1);
         solve(root.right,currDepth+1);
     }
