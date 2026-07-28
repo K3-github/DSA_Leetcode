@@ -1,18 +1,16 @@
 class Solution {
-    private int solve(int low,int high){
-        int noe=high-low+1;
-        if(noe==0) return 1;
-        if(noe==1 || noe==2) return noe;
-        
+    private int solve(int n,int[] dp){
+        if(n<=1) return 1;
+        if(dp[n]!=-1) return dp[n];
         int ans=0;
-        for(int i=low;i<=high;i++){
-            int left=solve(low,i-1);
-            int right=solve(i+1,high);
-            ans+=left*right;
+        for(int root=1;root<=n;root++){
+            ans+=solve(root-1,dp)*solve(n-root,dp);
         }
-        return ans;
+        return dp[n]=ans;
     }
     public int numTrees(int n) {
-        return solve(1,n);
+        int[] dp=new int[n+1];
+        Arrays.fill(dp,-1);
+        return solve(n,dp);
     }
 }
