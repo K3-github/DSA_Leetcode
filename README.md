@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/K3-github/DSA_Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/K3-github/DSA_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/K3-github/DSA_Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1297,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/K3-github/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/K3-github/DSA_Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/K3-github/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1367-linked-list-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1472-design-browser-history](https://github.com/K3-github/DSA_Leetcode/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/K3-github/DSA_Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
@@ -1589,6 +1591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/K3-github/DSA_Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1361-validate-binary-tree-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1613,6 +1616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/K3-github/DSA_Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1361-validate-binary-tree-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/1361-validate-binary-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Search Tree
