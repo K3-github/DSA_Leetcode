@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [1992-find-all-groups-of-farmland](https://github.com/K3-github/DSA_Leetcode/tree/master/1992-find-all-groups-of-farmland) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/K3-github/DSA_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
@@ -1593,6 +1594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/K3-github/DSA_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
@@ -1618,6 +1620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/K3-github/DSA_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Search Tree
 |  |
