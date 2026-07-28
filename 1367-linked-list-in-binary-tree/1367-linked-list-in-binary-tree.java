@@ -32,17 +32,14 @@ class Solution {
         boolean right=check(root.right,head.next);
         return (left==true || right==true) ? true : false;
     }
-    private boolean solve(TreeNode root,ListNode head){
+    public boolean isSubPath(ListNode head, TreeNode root) {
         if(root==null) return false;
 
         if(root.val==head.val){
             if(check(root,head)==true) return true;
         }
-        boolean left=solve(root.left,head);
-        boolean right=solve(root.right,head);
+        boolean left=isSubPath(head,root.left);
+        boolean right=isSubPath(head,root.right);
         return (left==true || right==true) ? true : false;
-    }
-    public boolean isSubPath(ListNode head, TreeNode root) {
-        return solve(root,head);
     }
 }
