@@ -14,22 +14,20 @@
  * }
  */
 class Solution {
-    private boolean solve(TreeNode root,TreeNode par,int dir){
-        if(root==null) return false;
+    private TreeNode solve(TreeNode root){
+        if(root==null) return null;
 
-        boolean left=solve(root.left,root,0);
-        boolean right=solve(root.right,root,1);
+        root.left=solve(root.left);
+        root.right=solve(root.right);
 
-        if(left==false && right==false && root.val==0){
-            if(par==null) return false;
-            if(dir==0) par.left=null;
-            else par.right=null;
-            return false;
+        if(root.left==null && root.right==null && root.val==0){
+            root.left=null;
+            root.right=null;
+            return null;
         }
-        return true;
+        return root;
     }
     public TreeNode pruneTree(TreeNode root) {
-        boolean res=solve(root,null,-1);
-        return res==false ? null : root;
+        return solve(root);
     }
 }
