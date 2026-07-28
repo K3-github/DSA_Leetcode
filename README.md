@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/K3-github/DSA_Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0676-implement-magic-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0684-redundant-connection](https://github.com/K3-github/DSA_Leetcode/tree/master/0684-redundant-connection) |
+| [0687-longest-univalue-path](https://github.com/K3-github/DSA_Leetcode/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/K3-github/DSA_Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/K3-github/DSA_Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/K3-github/DSA_Leetcode/tree/master/0733-flood-fill) |
@@ -1575,6 +1576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/K3-github/DSA_Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/K3-github/DSA_Leetcode/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/K3-github/DSA_Leetcode/tree/master/0814-binary-tree-pruning) |
 | [1302-deepest-leaves-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/K3-github/DSA_Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -1596,6 +1598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/K3-github/DSA_Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/K3-github/DSA_Leetcode/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/K3-github/DSA_Leetcode/tree/master/0814-binary-tree-pruning) |
 | [1302-deepest-leaves-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/K3-github/DSA_Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
