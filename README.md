@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/K3-github/DSA_Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/K3-github/DSA_Leetcode/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/K3-github/DSA_Leetcode/tree/master/0120-triangle) |
@@ -862,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/K3-github/DSA_Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/K3-github/DSA_Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0140-word-break-ii) |
@@ -1561,6 +1563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0337-house-robber-iii) |
@@ -1580,6 +1583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0337-house-robber-iii) |
@@ -1598,6 +1602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0538-convert-bst-to-greater-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
