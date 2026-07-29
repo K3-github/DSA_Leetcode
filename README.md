@@ -755,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/K3-github/DSA_Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3493-properties-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/3493-properties-graph) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3597-partition-string](https://github.com/K3-github/DSA_Leetcode/tree/master/3597-partition-string) |
 ## String
@@ -853,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3597-partition-string](https://github.com/K3-github/DSA_Leetcode/tree/master/3597-partition-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -1040,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/K3-github/DSA_Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/K3-github/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -1077,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/K3-github/DSA_Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -1282,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/K3-github/DSA_Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/K3-github/DSA_Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
 | ------- |
