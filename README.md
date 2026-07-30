@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/K3-github/DSA_Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/K3-github/DSA_Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/K3-github/DSA_Leetcode/tree/master/1162-as-far-from-land-as-possible) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/K3-github/DSA_Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/K3-github/DSA_Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1254-number-of-closed-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/K3-github/DSA_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/K3-github/DSA_Leetcode/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/K3-github/DSA_Leetcode/tree/master/1048-longest-string-chain) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/K3-github/DSA_Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -1603,6 +1606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/K3-github/DSA_Leetcode/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/K3-github/DSA_Leetcode/tree/master/0814-binary-tree-pruning) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/K3-github/DSA_Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -1633,6 +1637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/K3-github/DSA_Leetcode/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/K3-github/DSA_Leetcode/tree/master/0814-binary-tree-pruning) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/K3-github/DSA_Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
