@@ -39,7 +39,7 @@ class Solution {
 
             return new Pair(true,left.height+1,size);
         }
-        return new Pair(false,Math.max(left.height,right.height)+1,left.size+right.size+1);
+        return new Pair(false,Math.min(left.height,right.height)+1,left.size+right.size+1);
     }
     public int kthLargestPerfectSubtree(TreeNode root, int k) {
         solve(root,k);
