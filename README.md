@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/K3-github/DSA_Leetcode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/K3-github/DSA_Leetcode/tree/master/0841-keys-and-rooms) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/K3-github/DSA_Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/K3-github/DSA_Leetcode/tree/master/0886-possible-bipartition) |
 | [0959-regions-cut-by-slashes](https://github.com/K3-github/DSA_Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0994-rotting-oranges](https://github.com/K3-github/DSA_Leetcode/tree/master/0994-rotting-oranges) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/K3-github/DSA_Leetcode/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/K3-github/DSA_Leetcode/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/K3-github/DSA_Leetcode/tree/master/0851-loud-and-rich) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/K3-github/DSA_Leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/K3-github/DSA_Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0959-regions-cut-by-slashes](https://github.com/K3-github/DSA_Leetcode/tree/master/0959-regions-cut-by-slashes) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0820-short-encoding-of-words](https://github.com/K3-github/DSA_Leetcode/tree/master/0820-short-encoding-of-words) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/K3-github/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0911-online-election](https://github.com/K3-github/DSA_Leetcode/tree/master/0911-online-election) |
 | [0923-3sum-with-multiplicity](https://github.com/K3-github/DSA_Leetcode/tree/master/0923-3sum-with-multiplicity) |
@@ -1605,6 +1608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/K3-github/DSA_Leetcode/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/K3-github/DSA_Leetcode/tree/master/0814-binary-tree-pruning) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1636,6 +1640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/K3-github/DSA_Leetcode/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/K3-github/DSA_Leetcode/tree/master/0814-binary-tree-pruning) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
