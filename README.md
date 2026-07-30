@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/K3-github/DSA_Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1367-linked-list-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/K3-github/DSA_Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/K3-github/DSA_Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/K3-github/DSA_Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/K3-github/DSA_Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -1616,6 +1618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/K3-github/DSA_Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1361-validate-binary-tree-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1367-linked-list-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/K3-github/DSA_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1648,6 +1651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/K3-github/DSA_Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1361-validate-binary-tree-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1367-linked-list-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/K3-github/DSA_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
