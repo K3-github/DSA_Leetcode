@@ -14,30 +14,32 @@
  * }
  */
 class Pair{
-    int noOfNodes;
-    int depth;
+    boolean isPerfect;
+    int height;
+    int size;
 
-    Pair(int noOfNodes,int depth){
-        this.noOfNodes=noOfNodes;
-        this.depth=depth;
+    Pair(boolean isPerfect,int height,int size){
+        this.isPerfect=isPerfect;
+        this.height=height;
+        this.size=size;
     }
 }; 
 class Solution {
     PriorityQueue<Integer> pq=new PriorityQueue<>((a,b) -> a - b);
     private Pair solve(TreeNode root,int k){
-        if(root==null) return new Pair(0,0);
+        if(root==null) return new Pair(true,0,0);
 
         Pair left=solve(root.left,k);
         Pair right=solve(root.right,k);
 
-        int currDepth=1+Math.max(left.depth,right.depth);
-        int totalNodes=left.noOfNodes+right.noOfNodes+1;
-
-        if(Math.pow(2,currDepth)-1==totalNodes){
-            pq.offer(totalNodes);
+        if(left.isPerfect && right.isPerfect && left.height==right.height){
+            int size=left.size+right.size+1;
+            pq.offer(size);
             if(pq.size()>k) pq.poll();
+
+            return new Pair(true,left.height+1,size);
         }
-        return new Pair(totalNodes,currDepth);
+        return new Pair(false,Math.max(left.height,right.height)+1,left.size+right.size+1);
     }
     public int kthLargestPerfectSubtree(TreeNode root, int k) {
         solve(root,k);
