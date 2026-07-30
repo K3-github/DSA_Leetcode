@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K3-github/DSA_Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/K3-github/DSA_Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3493-properties-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/3493-properties-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/K3-github/DSA_Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -1185,6 +1186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/K3-github/DSA_Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/K3-github/DSA_Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -1613,6 +1615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1641,6 +1644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
