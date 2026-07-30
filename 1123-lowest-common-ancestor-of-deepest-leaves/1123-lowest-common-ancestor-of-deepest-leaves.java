@@ -13,32 +13,36 @@
  *     }
  * }
  */
-class Solution {
-    private int getMaxDepth(TreeNode root){
-        if(root==null) return 0;
+class Pair{
+    TreeNode node;
+    int height;
 
-        int left=getMaxDepth(root.left);
-        int right=getMaxDepth(root.right);
-
-        return 1+Math.max(left,right);
+    Pair(TreeNode node,int height){
+        this.node=node;
+        this.height=height;
     }
-    private TreeNode solve(TreeNode root,int maxDepth,int currDepth){
-        if(root==null) return null;
+};
+class Solution {
+    private Pair solve(TreeNode root){
+        if(root==null) return new Pair(null,0);
         if(root.left==null && root.right==null){
-            if(currDepth==maxDepth) return root;
-            return null;
+            return new Pair(root,1);
         }
 
-        TreeNode left=solve(root.left,maxDepth,currDepth+1);
-        TreeNode right=solve(root.right,maxDepth,currDepth+1);
-
-        if(left!=null && right!=null) return root;
-        else if(left==null) return right;
-        else if(right==null) return left;
-        return null;
+        Pair left=solve(root.left);
+        Pair right=solve(root.right);
+        
+        if(left.height==right.height){
+            if(left!=null && right!=null) return new Pair(root,1+left.height);
+            else if(left==null) return new Pair(right.node,1+left.height);
+            else if(right==null) return new Pair(left.node,1+left.height);
+            return new Pair(null,1+left.height);
+        }
+        int mxHeight=Math.max(left.height,right.height);
+        if(mxHeight==left.height) return new Pair(left.node,1+mxHeight);
+        return new Pair(right.node,1+mxHeight);
     }
     public TreeNode lcaDeepestLeaves(TreeNode root) {
-        int maxDepth=getMaxDepth(root);
-        return solve(root,maxDepth,1);
+        return solve(root).node;
     }
 }
