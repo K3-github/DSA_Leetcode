@@ -19,16 +19,13 @@ class Solution {
         q.offer(root);
         boolean isSeenNull=false;
         while(!q.isEmpty()){
-            int size=q.size();
-            for(int i=0;i<size;i++){
-                TreeNode node=q.poll();
-                if(node!=null){
-                    if(isSeenNull) return false;
-                    q.offer(node.left);
-                    q.offer(node.right);
-                }
-                else isSeenNull=true;
+            TreeNode node=q.poll();
+            if(node!=null){
+                if(isSeenNull) return false;
+                q.offer(node.left);
+                q.offer(node.right);
             }
+            else isSeenNull=true;
         }
         return true;
     }
