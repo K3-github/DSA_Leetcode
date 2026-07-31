@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/K3-github/DSA_Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/K3-github/DSA_Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/K3-github/DSA_Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -961,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/K3-github/DSA_Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/K3-github/DSA_Leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2424-longest-uploaded-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/2424-longest-uploaded-prefix) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1646,6 +1649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/K3-github/DSA_Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -1684,6 +1688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/K3-github/DSA_Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -1696,4 +1701,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
