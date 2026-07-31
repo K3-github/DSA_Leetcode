@@ -14,33 +14,39 @@
  * }
  */
 class Solution {
-    private List<Integer> mergeTwoSortedList(List<Integer> in1,List<Integer> in2){
-        int n=in1.size(),m=in2.size();
-        int i=0,j=0;
-        List<Integer> result=new ArrayList<>();
-        while(i<n && j<m){
-            if(in1.get(i)<=in2.get(j)){
-                result.add(in1.get(i++));
-            }
-            else result.add(in2.get(j++));
+    private void pushLeft(TreeNode root, Stack<TreeNode> st){
+        while(root!=null){
+            st.push(root);
+            root=root.left;
         }
-        while(i<n) result.add(in1.get(i++));
-        while(j<m) result.add(in2.get(j++));
-        return result;
-    }
-    private void inorderTrav(TreeNode root,List<Integer> res){
-        if(root==null) return;
-
-        inorderTrav(root.left,res);
-        res.add(root.val);
-        inorderTrav(root.right,res);
     }
     public List<Integer> getAllElements(TreeNode root1, TreeNode root2) {
-        List<Integer> in1=new ArrayList<>();
-        List<Integer> in2=new ArrayList<>();
-        
-        inorderTrav(root1,in1);
-        inorderTrav(root2,in2);
-        return mergeTwoSortedList(in1,in2);
+        Stack<TreeNode> st1=new Stack<>();
+        Stack<TreeNode> st2=new Stack<>();
+
+        pushLeft(root1,st1);
+        pushLeft(root2,st2);
+
+        List<Integer> ans=new ArrayList<>();
+        while(!st1.isEmpty() || !st2.isEmpty()){
+            Stack<TreeNode> curr;
+
+            if(st1.isEmpty()){
+                curr=st2;
+            }
+            else if(st2.isEmpty()){
+                curr=st1;
+            }
+            else if(st1.peek().val<=st2.peek().val){
+                curr=st1;
+            }
+            else curr=st2;
+
+            TreeNode node=curr.pop();
+            ans.add(node.val);
+
+            pushLeft(node.right,curr);
+        }
+        return ans;
     }
 }
