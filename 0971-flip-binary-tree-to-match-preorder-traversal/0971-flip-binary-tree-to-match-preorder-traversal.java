@@ -14,25 +14,21 @@
  * }
  */
 class Solution {
-    List<Integer> ans = new ArrayList<>();
-    int idx = 0;
+    List<Integer> ans=new ArrayList<>();
+    int index=0;
+    private boolean solve(TreeNode root,int[] v){
+       if(root==null) return true;
+       if(root.val!=v[index]) return false;
 
-    private boolean dfs(TreeNode root, int[] voyage) {
-        if (root == null) return true;
-
-        if (root.val != voyage[idx]) return false;
-
-        idx++;
-
-        if (root.left != null && idx < voyage.length && root.left.val != voyage[idx]) {
+       index++;
+       if(root.left!=null && index<v.length && root.left.val!=v[index]){
             ans.add(root.val);
-            return dfs(root.right, voyage) && dfs(root.left, voyage);
-        }
-        return dfs(root.left, voyage) && dfs(root.right, voyage);
+            return solve(root.right,v) && solve(root.left,v);
+       }
+       return solve(root.left,v) && solve(root.right,v);
     }
-
     public List<Integer> flipMatchVoyage(TreeNode root, int[] voyage) {
-        if (dfs(root, voyage)) return ans;
-        return Arrays.asList(-1);
+        if(solve(root,voyage)) return ans;
+        return List.of(-1);
     }
 }
