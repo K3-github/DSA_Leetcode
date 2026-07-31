@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/K3-github/DSA_Leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/K3-github/DSA_Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0951-flip-equivalent-binary-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0959-regions-cut-by-slashes](https://github.com/K3-github/DSA_Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [1020-number-of-enclaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -1622,6 +1623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/K3-github/DSA_Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/K3-github/DSA_Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0951-flip-equivalent-binary-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1657,6 +1659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/K3-github/DSA_Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/K3-github/DSA_Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/K3-github/DSA_Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0951-flip-equivalent-binary-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
