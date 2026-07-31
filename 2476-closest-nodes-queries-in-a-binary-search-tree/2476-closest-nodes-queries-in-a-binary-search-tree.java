@@ -17,29 +17,22 @@ class Solution {
     int largestValue;
     int smallestValue;
     List<Integer> arr=new ArrayList<>();
-    private void searchLargest(List<Integer> arr,int val){
-       int low=0,high=arr.size()-1;
-
-       while(low<=high){
-          int mid=(low+high) >> 1;
-          if(arr.get(mid)<=val){
-            largestValue=arr.get(mid);
-            low=mid+1;
-          }
-          else high=mid-1;
-       }
-    }
-    private void searchSmallest(List<Integer> arr,int val){
-       int low=0,high=arr.size()-1;
-
-       while(low<=high){
-          int mid=(low+high) >> 1;
-          if(arr.get(mid)>=val){
-            smallestValue=arr.get(mid);
-            high=mid-1;
-          }
-          else low=mid+1;
-       }
+    
+    private void search(List<Integer> arr,int val){
+        int low = 0, high = arr.size() - 1;
+        while (low <= high) {
+            int mid = (low + high) / 2;
+            if (arr.get(mid) == val) {
+                largestValue = smallestValue = arr.get(mid);
+                break;
+            } else if (arr.get(mid) < val) {
+                largestValue = arr.get(mid);
+                low = mid + 1;
+            } else {
+                smallestValue = arr.get(mid);
+                high = mid - 1;
+            }
+        }
     }
     private void trav(TreeNode root){
         if(root==null) return;
@@ -52,8 +45,7 @@ class Solution {
         List<List<Integer>> ans=new ArrayList<>();
         for(Integer val: queries){
             largestValue=-1;smallestValue=-1;
-            searchLargest(arr,val);
-            searchSmallest(arr,val);
+            search(arr,val);
             ans.add(List.of(largestValue,smallestValue));
         }
         return ans;
