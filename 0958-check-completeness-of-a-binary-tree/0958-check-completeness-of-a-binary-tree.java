@@ -14,19 +14,19 @@
  * }
  */
 class Solution {
+    int total=0;
+    private int count(TreeNode root){
+        if(root==null) return 0;
+        return 1+count(root.left)+count(root.right);
+    }
+    private boolean check(TreeNode root,int index){
+        if(root==null) return true;
+        if(index>total) return false;
+
+        return check(root.left,2*index) && check(root.right,2*index+1);
+    }
     public boolean isCompleteTree(TreeNode root) {
-        Queue<TreeNode> q=new LinkedList<>();
-        q.offer(root);
-        boolean isSeenNull=false;
-        while(!q.isEmpty()){
-            TreeNode node=q.poll();
-            if(node!=null){
-                if(isSeenNull) return false;
-                q.offer(node.left);
-                q.offer(node.right);
-            }
-            else isSeenNull=true;
-        }
-        return true;
+        total=count(root);
+        return check(root,1);
     }
 }
