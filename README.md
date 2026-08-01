@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/K3-github/DSA_Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/K3-github/DSA_Leetcode/tree/master/0399-evaluate-division) |
+| [0449-serialize-and-deserialize-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/K3-github/DSA_Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/K3-github/DSA_Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0542-01-matrix) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/K3-github/DSA_Leetcode/tree/master/0399-evaluate-division) |
+| [0449-serialize-and-deserialize-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0472-concatenated-words](https://github.com/K3-github/DSA_Leetcode/tree/master/0472-concatenated-words) |
 | [0508-most-frequent-subtree-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/K3-github/DSA_Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/K3-github/DSA_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/K3-github/DSA_Leetcode/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0472-concatenated-words](https://github.com/K3-github/DSA_Leetcode/tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/K3-github/DSA_Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -1406,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/K3-github/DSA_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0449-serialize-and-deserialize-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0676-implement-magic-dictionary](https://github.com/K3-github/DSA_Leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0677-map-sum-pairs) |
 | [0745-prefix-and-suffix-search](https://github.com/K3-github/DSA_Leetcode/tree/master/0745-prefix-and-suffix-search) |
@@ -1639,6 +1643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0337-house-robber-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/K3-github/DSA_Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/K3-github/DSA_Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1684,6 +1689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0337-house-robber-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/K3-github/DSA_Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/K3-github/DSA_Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1723,6 +1729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0449-serialize-and-deserialize-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
