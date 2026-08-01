@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/K3-github/DSA_Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1020-number-of-enclaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1020-number-of-enclaves) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/K3-github/DSA_Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/K3-github/DSA_Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -1664,6 +1665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/K3-github/DSA_Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/K3-github/DSA_Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/K3-github/DSA_Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1712,6 +1714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/K3-github/DSA_Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/K3-github/DSA_Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/K3-github/DSA_Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
