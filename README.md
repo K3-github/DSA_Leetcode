@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0959-regions-cut-by-slashes](https://github.com/K3-github/DSA_Leetcode/tree/master/0959-regions-cut-by-slashes) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/K3-github/DSA_Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/K3-github/DSA_Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -1658,6 +1659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/K3-github/DSA_Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1704,6 +1706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/K3-github/DSA_Leetcode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/K3-github/DSA_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
