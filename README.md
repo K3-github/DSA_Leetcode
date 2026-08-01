@@ -815,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/K3-github/DSA_Leetcode/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/K3-github/DSA_Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/K3-github/DSA_Leetcode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/0402-remove-k-digits) |
@@ -1382,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/K3-github/DSA_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/K3-github/DSA_Leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/K3-github/DSA_Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/K3-github/DSA_Leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -1635,6 +1637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/K3-github/DSA_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/K3-github/DSA_Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -1679,6 +1682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/K3-github/DSA_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/K3-github/DSA_Leetcode/tree/master/0513-find-bottom-left-tree-value) |
