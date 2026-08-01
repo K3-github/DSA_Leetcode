@@ -16,13 +16,12 @@ public class Codec {
         while(!q.isEmpty()){
             TreeNode node=q.poll();
             if(node!=null){
-                sb.append(String.valueOf(node.val));
-                sb.append(',');
+                sb.append(node.val).append(',');
                 q.offer(node.left);
                 q.offer(node.right);
             }
             else{
-                sb.append("#,");
+                sb.append("N,");
             }
         }
         return sb.toString();
@@ -30,7 +29,7 @@ public class Codec {
 
     public TreeNode deserialize(String data) {
         String[] arr=data.split(",");
-        if(arr.length==1) return null;
+        if(arr[0].equals("N")) return null;
         Queue<TreeNode> q=new LinkedList<>();
         int index=0;
         TreeNode root=new TreeNode(Integer.parseInt(arr[index++]));
@@ -38,13 +37,13 @@ public class Codec {
 
         while(!q.isEmpty()){
             TreeNode node=q.poll();
-            if(arr[index].equals("#")) node.left=null;
+            if(arr[index].equals("N")) node.left=null;
             else{
                 node.left=new TreeNode(Integer.parseInt(arr[index]));
                 q.offer(node.left);
             }
             index++;
-            if(arr[index].equals("#")) node.right=null;
+            if(arr[index].equals("N")) node.right=null;
             else{
                 node.right=new TreeNode(Integer.parseInt(arr[index]));
                 q.offer(node.right);
