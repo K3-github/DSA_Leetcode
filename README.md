@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/K3-github/DSA_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/K3-github/DSA_Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/K3-github/DSA_Leetcode/tree/master/0130-surrounded-regions) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/K3-github/DSA_Leetcode/tree/master/0079-word-search) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/K3-github/DSA_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/K3-github/DSA_Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/0200-number-of-islands) |
@@ -1342,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/K3-github/DSA_Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/K3-github/DSA_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/K3-github/DSA_Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/K3-github/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -1630,6 +1633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/K3-github/DSA_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0508-most-frequent-subtree-sum) |
@@ -1673,6 +1677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/K3-github/DSA_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0337-house-robber-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0337-house-robber-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0508-most-frequent-subtree-sum) |
