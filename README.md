@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0335-self-crossing](https://github.com/K3-github/DSA_Leetcode/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/K3-github/DSA_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/K3-github/DSA_Leetcode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -1062,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/K3-github/DSA_Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0282-expression-add-operators](https://github.com/K3-github/DSA_Leetcode/tree/master/0282-expression-add-operators) |
+| [0335-self-crossing](https://github.com/K3-github/DSA_Leetcode/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/K3-github/DSA_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0398-random-pick-index](https://github.com/K3-github/DSA_Leetcode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/K3-github/DSA_Leetcode/tree/master/0400-nth-digit) |
@@ -1756,4 +1758,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/K3-github/DSA_Leetcode/tree/master/0486-predict-the-winner) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/K3-github/DSA_Leetcode/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
