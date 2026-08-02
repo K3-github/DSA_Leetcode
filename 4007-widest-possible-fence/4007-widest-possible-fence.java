@@ -28,7 +28,8 @@ class Solution {
             }
         }
         for(Map.Entry<Integer,Integer> e: pars.entrySet()){
-            ans = Math.max(ans, e.getValue() + freq.getOrDefault(e.getKey(), 0));
+            int f=freq.getOrDefault(e.getKey(),0);
+            ans = Math.max(ans, e.getValue()+f);
         }
         return ans;
     }
