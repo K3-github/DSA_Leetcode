@@ -1,6 +1,6 @@
 class Solution {
     private int solve(int[] piles, int left, int right,int[][] dp) {
-        if(left==right) return piles[left];
+        if(left>right) return 0;
         if(dp[left][right]!=-1) return dp[left][right];
 
         int pickLeft = piles[left] - solve(piles, left + 1, right,dp);
