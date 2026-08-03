@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/K3-github/DSA_Leetcode/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1095-find-in-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1095-find-in-mountain-array) |
+| [1140-stone-game-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1140-stone-game-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/K3-github/DSA_Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/K3-github/DSA_Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/K3-github/DSA_Leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/K3-github/DSA_Leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/K3-github/DSA_Leetcode/tree/master/1092-shortest-common-supersequence) |
+| [1140-stone-game-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/K3-github/DSA_Leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/K3-github/DSA_Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -1085,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/K3-github/DSA_Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0754-reach-a-number](https://github.com/K3-github/DSA_Leetcode/tree/master/0754-reach-a-number) |
 | [0877-stone-game](https://github.com/K3-github/DSA_Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -1495,6 +1498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/K3-github/DSA_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/K3-github/DSA_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K3-github/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1772,9 +1776,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/K3-github/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/K3-github/DSA_Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1140-stone-game-ii) |
 | [1690-stone-game-vii](https://github.com/K3-github/DSA_Leetcode/tree/master/1690-stone-game-vii) |
 ## Geometry
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/K3-github/DSA_Leetcode/tree/master/0335-self-crossing) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
