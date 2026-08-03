@@ -19,7 +19,7 @@ class Solution {
         for(int i=0;i<n;i++){
            psum[i+1]=piles[i]+psum[i];
         }
-        int[][] dp=new int[n][200];
+        int[][] dp=new int[n][n+1];
         for(int i=0;i<n;i++){
             Arrays.fill(dp[i],-1);
         }
