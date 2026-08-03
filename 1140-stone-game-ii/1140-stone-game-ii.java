@@ -1,17 +1,17 @@
 class Solution {
     int[] psum;
-    private int solve(int index,int m,int[] piles,int[][] dp){
-        if(index>=piles.length) return 0;
-        if(dp[index][m]!=-1) return dp[index][m];
-        
-        int ans=0;
-        int size=psum.length;
-        for(int x=1;x<=2*m;x++){
-            int res=psum[size-1]-psum[index];
-            int newM = Math.max(m, x);
-            ans=Math.max(ans,res-solve(index+x,newM,piles,dp));
+    private int solve(int index, int m, int[] piles, int[][] dp) {
+        if (index >= piles.length) return 0;
+        if (dp[index][m] != -1) return dp[index][m];
+
+        int total = psum[piles.length] - psum[index];
+        int ans = 0;
+        for(int x=1;x<=Math.min(2*m,piles.length-index);x++) {
+            int newM = Math.max(m,x);
+            ans = Math.max(ans,total-solve(index + x, newM, piles, dp));
         }
-        return dp[index][m]=ans;
+
+        return dp[index][m] = ans;
     }
     public int stoneGameII(int[] piles) {
         int n=piles.length;
