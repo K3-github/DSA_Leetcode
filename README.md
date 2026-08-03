@@ -633,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/K3-github/DSA_Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0464-can-i-win](https://github.com/K3-github/DSA_Leetcode/tree/master/0464-can-i-win) |
 | [0472-concatenated-words](https://github.com/K3-github/DSA_Leetcode/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/K3-github/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0494-target-sum) |
@@ -1080,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/K3-github/DSA_Leetcode/tree/master/0400-nth-digit) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/K3-github/DSA_Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0464-can-i-win](https://github.com/K3-github/DSA_Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/K3-github/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/K3-github/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [0528-random-pick-with-weight](https://github.com/K3-github/DSA_Leetcode/tree/master/0528-random-pick-with-weight) |
@@ -1138,6 +1140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/K3-github/DSA_Leetcode/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/K3-github/DSA_Leetcode/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/K3-github/DSA_Leetcode/tree/master/0509-fibonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -1558,6 +1561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/K3-github/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0397-integer-replacement](https://github.com/K3-github/DSA_Leetcode/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0464-can-i-win](https://github.com/K3-github/DSA_Leetcode/tree/master/0464-can-i-win) |
 | [0784-letter-case-permutation](https://github.com/K3-github/DSA_Leetcode/tree/master/0784-letter-case-permutation) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/K3-github/DSA_Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0980-unique-paths-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0980-unique-paths-iii) |
@@ -1583,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/K3-github/DSA_Leetcode/tree/master/0464-can-i-win) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2305-fair-distribution-of-cookies](https://github.com/K3-github/DSA_Leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Ordered Set
@@ -1777,6 +1782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/K3-github/DSA_Leetcode/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/K3-github/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/K3-github/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1140-stone-game-ii) |
