@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/K3-github/DSA_Leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/K3-github/DSA_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/K3-github/DSA_Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/K3-github/DSA_Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1406-stone-game-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -1089,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/K3-github/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1690-stone-game-vii](https://github.com/K3-github/DSA_Leetcode/tree/master/1690-stone-game-vii) |
@@ -1777,6 +1780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/K3-github/DSA_Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/K3-github/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 | [1690-stone-game-vii](https://github.com/K3-github/DSA_Leetcode/tree/master/1690-stone-game-vii) |
 ## Geometry
 |  |
@@ -1786,8 +1790,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
