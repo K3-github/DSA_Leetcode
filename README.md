@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/K3-github/DSA_Leetcode/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/K3-github/DSA_Leetcode/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/K3-github/DSA_Leetcode/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0518-coin-change-ii) |
@@ -979,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/K3-github/DSA_Leetcode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/K3-github/DSA_Leetcode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/K3-github/DSA_Leetcode/tree/master/0475-heaters) |
+| [0493-reverse-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0528-random-pick-with-weight](https://github.com/K3-github/DSA_Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/K3-github/DSA_Leetcode/tree/master/0611-valid-triangle-number) |
@@ -1344,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/K3-github/DSA_Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/K3-github/DSA_Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2424-longest-uploaded-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Segment Tree
@@ -1352,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/K3-github/DSA_Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/K3-github/DSA_Leetcode/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2424-longest-uploaded-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/2424-longest-uploaded-prefix) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -1420,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/K3-github/DSA_Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0327-count-of-range-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/K3-github/DSA_Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -1430,6 +1435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/K3-github/DSA_Leetcode/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/K3-github/DSA_Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -1617,6 +1623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/K3-github/DSA_Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0327-count-of-range-sum) |
 | [0456-132-pattern](https://github.com/K3-github/DSA_Leetcode/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [2034-stock-price-fluctuation](https://github.com/K3-github/DSA_Leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2424-longest-uploaded-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/2424-longest-uploaded-prefix) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -1845,4 +1852,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/K3-github/DSA_Leetcode/tree/master/1510-stone-game-iv) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
