@@ -917,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 | [3093-longest-common-suffix-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/K3-github/DSA_Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
+| [3227-vowels-game-in-a-string](https://github.com/K3-github/DSA_Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/K3-github/DSA_Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -1124,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2607-make-k-subarray-sums-equal](https://github.com/K3-github/DSA_Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3227-vowels-game-in-a-string](https://github.com/K3-github/DSA_Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K3-github/DSA_Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
@@ -1821,6 +1823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-stone-game-vii](https://github.com/K3-github/DSA_Leetcode/tree/master/1690-stone-game-vii) |
 | [1872-stone-game-viii](https://github.com/K3-github/DSA_Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/K3-github/DSA_Leetcode/tree/master/2029-stone-game-ix) |
+| [3227-vowels-game-in-a-string](https://github.com/K3-github/DSA_Leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Geometry
 |  |
 | ------- |
@@ -1856,4 +1859,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/0493-reverse-pairs) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/K3-github/DSA_Leetcode/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
