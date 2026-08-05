@@ -6,18 +6,13 @@ class Solution {
         if (pos == digits.length) {
             return started == 1 ? 1 : 0;
         }
-
         if (tight == 0 && dp[pos][tight][mask][started] != -1) {
             return dp[pos][tight][mask][started];
         }
-
         int limit = (tight == 1) ? digits[pos] : 9;
         int ans = 0;
-
         for (int digit = 0; digit <= limit; digit++) {
-
             int newTight = (tight == 1 && digit == limit) ? 1 : 0;
-
             if (started == 0 && digit == 0) {
                 ans += solve(pos + 1, newTight, mask, 0);
             } else {
@@ -26,10 +21,10 @@ class Solution {
                 ans += solve(pos + 1, newTight, newMask, 1);
             }
         }
-        if (tight == 0) {
-            dp[pos][tight][mask][started] = ans;
-        }
-        return ans;
+        // if (tight == 0){
+            
+        // }
+        return dp[pos][tight][mask][started] = ans;
     }
 
     public int countSpecialNumbers(int n) {
