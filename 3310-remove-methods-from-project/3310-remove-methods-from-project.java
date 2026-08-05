@@ -21,12 +21,15 @@ class Solution {
         List<List<Integer>> graph=createGraph(n,invocations);
         boolean[] affected=new boolean[n];
         dfs(k,graph,affected);
-
+        
         for(int[] e: invocations){
             int u=e[0],v=e[1];
             if(!affected[u] && affected[v]){
-                Arrays.fill(affected,false);
-                break;
+                List<Integer> all=new ArrayList<>();
+                for(int i=0;i<n;i++){
+                    all.add(i);
+                }
+                return all;
             }
         }
         List<Integer> ans=new ArrayList<>();
