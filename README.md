@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/K3-github/DSA_Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0337-house-robber-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/K3-github/DSA_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/K3-github/DSA_Leetcode/tree/master/0377-combination-sum-iv) |
 | [0397-integer-replacement](https://github.com/K3-github/DSA_Leetcode/tree/master/0397-integer-replacement) |
@@ -954,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/K3-github/DSA_Leetcode/tree/master/0282-expression-add-operators) |
+| [0357-count-numbers-with-unique-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/K3-github/DSA_Leetcode/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/K3-github/DSA_Leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -1093,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0189-rotate-array) |
 | [0282-expression-add-operators](https://github.com/K3-github/DSA_Leetcode/tree/master/0282-expression-add-operators) |
 | [0335-self-crossing](https://github.com/K3-github/DSA_Leetcode/tree/master/0335-self-crossing) |
+| [0357-count-numbers-with-unique-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/K3-github/DSA_Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0398-random-pick-index](https://github.com/K3-github/DSA_Leetcode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/K3-github/DSA_Leetcode/tree/master/0400-nth-digit) |
