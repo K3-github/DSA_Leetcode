@@ -10,19 +10,17 @@ class Solution {
         }
         return graph;
     }
-    private void dfs(int node,boolean[] vis,List<List<Integer>> graph,boolean[] affected){
-        vis[node]=true;
+    private void dfs(int node,List<List<Integer>> graph,boolean[] affected){
         affected[node]=true;
 
         for(Integer adjNode: graph.get(node)){
-            if(!affected[adjNode]) dfs(adjNode,vis,graph,affected);
+            if(!affected[adjNode]) dfs(adjNode,graph,affected);
         }
     }
     public List<Integer> remainingMethods(int n, int k, int[][] invocations) {
         List<List<Integer>> graph=createGraph(n,invocations);
-        boolean[] vis=new boolean[n];
         boolean[] affected=new boolean[n];
-        dfs(k,vis,graph,affected);
+        dfs(k,graph,affected);
 
         for(int[] e: invocations){
             int u=e[0],v=e[1];
