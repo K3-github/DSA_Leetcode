@@ -1,31 +1,53 @@
 class Solution {
     int[] digits;
-    private int solve(int pos,boolean tight,int mask,boolean started){
-        if(pos==digits.length){
-            return started ? 1 : 0;
-        }
-        int limit=tight ? digits[pos] : 9;
-        int ans=0;
-        for(int digit=0;digit<=limit;digit++){
-            boolean newTight= tight && (digit==limit);
+    int[][][][] dp;
 
-            if(!started && digit==0){
-                ans+=solve(pos+1,newTight,mask,false);
+    private int solve(int pos, int tight, int mask, int started) {
+        if (pos == digits.length) {
+            return started == 1 ? 1 : 0;
+        }
+
+        if (tight == 0 && dp[pos][tight][mask][started] != -1) {
+            return dp[pos][tight][mask][started];
+        }
+
+        int limit = (tight == 1) ? digits[pos] : 9;
+        int ans = 0;
+
+        for (int digit = 0; digit <= limit; digit++) {
+
+            int newTight = (tight == 1 && digit == limit) ? 1 : 0;
+
+            if (started == 0 && digit == 0) {
+                ans += solve(pos + 1, newTight, mask, 0);
+            } else {
+                if ((mask & (1 << digit)) != 0) continue;
+                int newMask = mask | (1 << digit);
+                ans += solve(pos + 1, newTight, newMask, 1);
             }
-            else{
-                if((mask & (1<<digit))!=0) continue;
-                int newMask= mask | (1<<digit);
-                ans+=solve(pos+1,newTight,newMask,true);
-            }
+        }
+        if (tight == 0) {
+            dp[pos][tight][mask][started] = ans;
         }
         return ans;
     }
+
     public int countSpecialNumbers(int n) {
-        String str=String.valueOf(n);
-        digits=new int[str.length()];
-        for(int i=0;i<str.length();i++){
-            digits[i]=str.charAt(i)-'0';
+
+        String s = String.valueOf(n);
+        digits = new int[s.length()];
+        for (int i = 0; i < s.length(); i++) {
+            digits[i] = s.charAt(i) - '0';
         }
-        return solve(0,true,0,false);
+        dp = new int[digits.length][2][1 << 10][2];
+
+        for (int i = 0; i < digits.length; i++) {
+            for (int j = 0; j < 2; j++) {
+                for (int k = 0; k < (1 << 10); k++) {
+                    Arrays.fill(dp[i][j][k], -1);
+                }
+            }
+        }
+        return solve(0, 1, 0, 0);
     }
 }
