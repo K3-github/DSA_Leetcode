@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2708-maximum-strength-of-a-group](https://github.com/K3-github/DSA_Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/K3-github/DSA_Leetcode/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
+| [2719-count-of-integers](https://github.com/K3-github/DSA_Leetcode/tree/master/2719-count-of-integers) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/K3-github/DSA_Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
@@ -916,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-find-the-substring-with-maximum-cost](https://github.com/K3-github/DSA_Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/K3-github/DSA_Leetcode/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2712-minimum-cost-to-make-all-characters-equal](https://github.com/K3-github/DSA_Leetcode/tree/master/2712-minimum-cost-to-make-all-characters-equal) |
+| [2719-count-of-integers](https://github.com/K3-github/DSA_Leetcode/tree/master/2719-count-of-integers) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/K3-github/DSA_Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1137,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/K3-github/DSA_Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2607-make-k-subarray-sums-equal](https://github.com/K3-github/DSA_Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
+| [2719-count-of-integers](https://github.com/K3-github/DSA_Leetcode/tree/master/2719-count-of-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-vowels-game-in-a-string](https://github.com/K3-github/DSA_Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
