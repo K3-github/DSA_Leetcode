@@ -937,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/K3-github/DSA_Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3227-vowels-game-in-a-string](https://github.com/K3-github/DSA_Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/K3-github/DSA_Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -985,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2708-maximum-strength-of-a-group](https://github.com/K3-github/DSA_Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -1156,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K3-github/DSA_Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3443-maximum-manhattan-distance-after-k-changes](https://github.com/K3-github/DSA_Leetcode/tree/master/3443-maximum-manhattan-distance-after-k-changes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1255,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3291-minimum-number-of-valid-strings-to-form-target-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/K3-github/DSA_Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -1723,6 +1727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2607-make-k-subarray-sums-equal](https://github.com/K3-github/DSA_Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K3-github/DSA_Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/K3-github/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Randomized
