@@ -724,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/K3-github/DSA_Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3490-count-beautiful-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/3490-count-beautiful-numbers) |
 | [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
+| [3519-count-numbers-with-non-decreasing-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/K3-github/DSA_Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -941,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3519-count-numbers-with-non-decreasing-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3597-partition-string](https://github.com/K3-github/DSA_Leetcode/tree/master/3597-partition-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -1159,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3519-count-numbers-with-non-decreasing-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/K3-github/DSA_Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
