@@ -2,8 +2,10 @@ class Solution {
     private boolean solve(int i,int j,String s,String p){
         if(j<0) return i<0;
         if(i<0){
-            if(j>=1 && p.charAt(j)=='*') return solve(i,j-2,s,p);
-            return false;
+            while(j>=1 && p.charAt(j)=='*'){
+                j-=2;
+            }
+            return j<0;
         }
 
         char ch1=s.charAt(i);
