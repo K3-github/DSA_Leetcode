@@ -733,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/K3-github/DSA_Leetcode/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/K3-github/DSA_Leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3791-number-of-balanced-integers-in-a-range](https://github.com/K3-github/DSA_Leetcode/tree/master/3791-number-of-balanced-integers-in-a-range) |
 ## Topological Sort
@@ -1177,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3700-number-of-zigzag-arrays-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3704-count-no-zero-pairs-that-sum-to-n](https://github.com/K3-github/DSA_Leetcode/tree/master/3704-count-no-zero-pairs-that-sum-to-n) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/K3-github/DSA_Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/K3-github/DSA_Leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
