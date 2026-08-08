@@ -3,12 +3,12 @@ class Solution {
         boolean changed = false;
         while (num > 0) {
             int digit = num % 10;
-            if(digit == 0 || digit == 1 || digit == 8){}
+            num /= 10;
+            if(digit == 0 || digit == 1 || digit == 8) continue;
             else if(digit == 2 || digit == 5 || digit == 6 || digit == 9) {
                 changed = true;
             }
             else return false;
-            num /= 10;
         }
         return changed;
     }
