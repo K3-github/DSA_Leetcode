@@ -14,7 +14,7 @@ class Solution {
         if(ch1==ch2 || ch2=='.'){
             return solve(i-1,j-1,s,p);
         }
-        if(ch2=='*'){
+        else if(ch2=='*'){
             boolean zero = solve(i, j - 2, s, p);
             boolean oneOrMore = false;
             char prev = p.charAt(j-1);
@@ -23,7 +23,7 @@ class Solution {
             }
             return zero || oneOrMore;
         }
-        return false;
+        else return false;
     }
     public boolean isMatch(String s, String p) {
         int n=s.length();
