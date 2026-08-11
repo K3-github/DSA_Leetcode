@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/K3-github/DSA_Leetcode/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/K3-github/DSA_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -1160,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1012-numbers-with-repeated-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1140-stone-game-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/K3-github/DSA_Leetcode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -1549,6 +1551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/K3-github/DSA_Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0911-online-election](https://github.com/K3-github/DSA_Leetcode/tree/master/0911-online-election) |
 | [0981-time-based-key-value-store](https://github.com/K3-github/DSA_Leetcode/tree/master/0981-time-based-key-value-store) |
+| [1352-product-of-the-last-k-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/K3-github/DSA_Leetcode/tree/master/1472-design-browser-history) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2034-stock-price-fluctuation](https://github.com/K3-github/DSA_Leetcode/tree/master/2034-stock-price-fluctuation) |
@@ -1560,6 +1563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/K3-github/DSA_Leetcode/tree/master/1472-design-browser-history) |
 | [2034-stock-price-fluctuation](https://github.com/K3-github/DSA_Leetcode/tree/master/2034-stock-price-fluctuation) |
 ## Sliding Window
@@ -1611,6 +1615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1314-matrix-block-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/K3-github/DSA_Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/K3-github/DSA_Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/K3-github/DSA_Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
