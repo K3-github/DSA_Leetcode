@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K3-github/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/K3-github/DSA_Leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/K3-github/DSA_Leetcode/tree/master/1690-stone-game-vii) |
 | [1696-jump-game-vi](https://github.com/K3-github/DSA_Leetcode/tree/master/1696-jump-game-vi) |
@@ -1170,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/K3-github/DSA_Leetcode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1686-stone-game-vi](https://github.com/K3-github/DSA_Leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/K3-github/DSA_Leetcode/tree/master/1690-stone-game-vii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -1623,6 +1625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/K3-github/DSA_Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K3-github/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/K3-github/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/K3-github/DSA_Leetcode/tree/master/1872-stone-game-viii) |
