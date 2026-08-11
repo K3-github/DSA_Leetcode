@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/K3-github/DSA_Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/K3-github/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/K3-github/DSA_Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1872-stone-game-viii](https://github.com/K3-github/DSA_Leetcode/tree/master/1872-stone-game-viii) |
 | [1905-count-sub-islands](https://github.com/K3-github/DSA_Leetcode/tree/master/1905-count-sub-islands) |
@@ -1012,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/K3-github/DSA_Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1219-path-with-maximum-gold](https://github.com/K3-github/DSA_Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/K3-github/DSA_Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/K3-github/DSA_Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/K3-github/DSA_Leetcode/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -1182,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/K3-github/DSA_Leetcode/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/K3-github/DSA_Leetcode/tree/master/1690-stone-game-vii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/K3-github/DSA_Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/K3-github/DSA_Leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/K3-github/DSA_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -1248,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/K3-github/DSA_Leetcode/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/K3-github/DSA_Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2063-vowels-of-all-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/K3-github/DSA_Leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -1456,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/1291-sequential-digits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/K3-github/DSA_Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2708-maximum-strength-of-a-group](https://github.com/K3-github/DSA_Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -1702,6 +1707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/K3-github/DSA_Leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/K3-github/DSA_Leetcode/tree/master/1803-count-pairs-with-xor-in-a-range) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/K3-github/DSA_Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1938-maximum-genetic-difference-query](https://github.com/K3-github/DSA_Leetcode/tree/master/1938-maximum-genetic-difference-query) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2305-fair-distribution-of-cookies](https://github.com/K3-github/DSA_Leetcode/tree/master/2305-fair-distribution-of-cookies) |
