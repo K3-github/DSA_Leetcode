@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-prefix-and-suffix-search](https://github.com/K3-github/DSA_Leetcode/tree/master/0745-prefix-and-suffix-search) |
 | [0778-swim-in-rising-water](https://github.com/K3-github/DSA_Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0813-largest-sum-of-averages](https://github.com/K3-github/DSA_Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0820-short-encoding-of-words](https://github.com/K3-github/DSA_Leetcode/tree/master/0820-short-encoding-of-words) |
 | [0825-friends-of-appropriate-ages](https://github.com/K3-github/DSA_Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/K3-github/DSA_Leetcode/tree/master/0826-most-profit-assigning-work) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/K3-github/DSA_Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/K3-github/DSA_Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0813-largest-sum-of-averages](https://github.com/K3-github/DSA_Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0838-push-dominoes](https://github.com/K3-github/DSA_Leetcode/tree/master/0838-push-dominoes) |
 | [0845-longest-mountain-in-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -1593,6 +1595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/K3-github/DSA_Leetcode/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/K3-github/DSA_Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/K3-github/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0813-largest-sum-of-averages](https://github.com/K3-github/DSA_Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0930-binary-subarrays-with-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/K3-github/DSA_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/1004-max-consecutive-ones-iii) |
