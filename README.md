@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/K3-github/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/K3-github/DSA_Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K3-github/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1664-ways-to-make-a-fair-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/K3-github/DSA_Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -1628,6 +1629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/K3-github/DSA_Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/K3-github/DSA_Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1664-ways-to-make-a-fair-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/K3-github/DSA_Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/K3-github/DSA_Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
