@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/K3-github/DSA_Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0978-longest-turbulent-subarray](https://github.com/K3-github/DSA_Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [0980-unique-paths-iii](https://github.com/K3-github/DSA_Leetcode/tree/master/0980-unique-paths-iii) |
+| [0983-minimum-cost-for-tickets](https://github.com/K3-github/DSA_Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [0990-satisfiability-of-equality-equations](https://github.com/K3-github/DSA_Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0992-subarrays-with-k-different-integers](https://github.com/K3-github/DSA_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/K3-github/DSA_Leetcode/tree/master/0994-rotting-oranges) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/K3-github/DSA_Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/K3-github/DSA_Leetcode/tree/master/0978-longest-turbulent-subarray) |
+| [0983-minimum-cost-for-tickets](https://github.com/K3-github/DSA_Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1012-numbers-with-repeated-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/1012-numbers-with-repeated-digits) |
 | [1043-partition-array-for-maximum-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/K3-github/DSA_Leetcode/tree/master/1048-longest-string-chain) |
