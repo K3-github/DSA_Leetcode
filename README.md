@@ -883,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3597-partition-string](https://github.com/K3-github/DSA_Leetcode/tree/master/3597-partition-string) |
 | [3731-find-missing-elements](https://github.com/K3-github/DSA_Leetcode/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/K3-github/DSA_Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -1002,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3519-count-numbers-with-non-decreasing-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/3519-count-numbers-with-non-decreasing-digits) |
 | [3597-partition-string](https://github.com/K3-github/DSA_Leetcode/tree/master/3597-partition-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/K3-github/DSA_Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/K3-github/DSA_Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
