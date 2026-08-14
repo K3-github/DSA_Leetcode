@@ -1,21 +1,23 @@
 class Solution {
+    private int getValue(char ch){
+        if(ch=='A') return 0;
+        if(ch=='C') return 1;
+        if(ch=='G') return 2;
+        return 3;
+    }
     public List<String> findRepeatedDnaSequences(String s) {
-        HashMap<String,Integer> mp=new HashMap<>();
+        HashMap<Integer,Integer> mp=new HashMap<>();
         int n=s.length();
-        int i=0,j=0;
-        StringBuilder sb=new StringBuilder();
-        List<String> ans=new ArrayList<>();
-        while(j<n){
-            char ch=s.charAt(j);
-            sb.append(ch);
-            if(j-i+1==10){
-                String str=sb.toString();
-                if(mp.containsKey(str) && mp.get(str)==1) ans.add(str);
-                mp.put(str,mp.getOrDefault(str,0)+1);
-                sb.deleteCharAt(0);
-                i++;
+        int mask=(1<<20) - 1;
+        int hash=0;
+        List<String> ans= new ArrayList<>();
+        for(int i=0;i<n;i++){
+            hash= ((hash<<2) | getValue(s.charAt(i))) & mask;
+            if(i>=9){
+                int count=mp.getOrDefault(hash,0);
+                if(count==1) ans.add(s.substring(i-9,i+1));
+                mp.put(hash,count+1);
             }
-            j++;
         }
         return ans;
     }
