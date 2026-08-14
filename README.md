@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/K3-github/DSA_Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/K3-github/DSA_Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/K3-github/DSA_Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/K3-github/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/K3-github/DSA_Leetcode/tree/master/0057-insert-interval) |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/K3-github/DSA_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/K3-github/DSA_Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/K3-github/DSA_Leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/K3-github/DSA_Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/K3-github/DSA_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/K3-github/DSA_Leetcode/tree/master/0127-word-ladder) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/K3-github/DSA_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/K3-github/DSA_Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/K3-github/DSA_Leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/K3-github/DSA_Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/K3-github/DSA_Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/K3-github/DSA_Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/K3-github/DSA_Leetcode/tree/master/0079-word-search) |
@@ -1336,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/K3-github/DSA_Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/K3-github/DSA_Leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/K3-github/DSA_Leetcode/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/K3-github/DSA_Leetcode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/K3-github/DSA_Leetcode/tree/master/0368-largest-divisible-subset) |
