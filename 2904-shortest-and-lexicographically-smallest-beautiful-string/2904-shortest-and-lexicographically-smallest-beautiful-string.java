@@ -8,7 +8,7 @@ class Solution {
             if (s.charAt(right) == '1') {
                 k--;
             }
-            while (k == 0) {
+            while (left<=right && k == 0) {
                 int currLen = right - left + 1;
                 String sub = s.substring(left, right + 1);
                 if (currLen < minLen || 
