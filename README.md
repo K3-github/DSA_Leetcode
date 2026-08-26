@@ -996,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2719-count-of-integers](https://github.com/K3-github/DSA_Leetcode/tree/master/2719-count-of-integers) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2801-count-stepping-numbers-in-range](https://github.com/K3-github/DSA_Leetcode/tree/master/2801-count-stepping-numbers-in-range) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/K3-github/DSA_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/K3-github/DSA_Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/K3-github/DSA_Leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/K3-github/DSA_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1667,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/K3-github/DSA_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/K3-github/DSA_Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2935-maximum-strong-pair-xor-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/2935-maximum-strong-pair-xor-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/K3-github/DSA_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
