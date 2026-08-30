@@ -9,15 +9,9 @@ class Solution {
     }
     public int[] vowelStrings(String[] words, int[][] queries) {
         int n=words.length;
-        int[] arr=new int[n];
-        for(int i=0;i<n;i++){
-            if(check(words[i])==true){
-                arr[i]=1;
-            }
-        }
         int[] psum=new int[n+1];
         for(int i=0;i<n;i++){
-            psum[i+1]=psum[i]+arr[i];
+            psum[i+1]=psum[i]+(check(words[i])==true ? 1 : 0);
         }
         int len=queries.length;
         int[] ans=new int[len];
