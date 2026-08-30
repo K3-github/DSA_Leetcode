@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-count-vowel-strings-in-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/K3-github/DSA_Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/K3-github/DSA_Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2607-make-k-subarray-sums-equal](https://github.com/K3-github/DSA_Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
@@ -1355,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/K3-github/DSA_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/K3-github/DSA_Leetcode/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/K3-github/DSA_Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/K3-github/DSA_Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2607-make-k-subarray-sums-equal](https://github.com/K3-github/DSA_Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/K3-github/DSA_Leetcode/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2673-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2673-make-costs-of-paths-equal-in-a-binary-tree) |
@@ -1421,6 +1423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/K3-github/DSA_Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2607-make-k-subarray-sums-equal](https://github.com/K3-github/DSA_Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [2708-maximum-strength-of-a-group](https://github.com/K3-github/DSA_Leetcode/tree/master/2708-maximum-strength-of-a-group) |
@@ -1723,6 +1726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/K3-github/DSA_Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2536-increment-submatrices-by-one](https://github.com/K3-github/DSA_Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/K3-github/DSA_Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/K3-github/DSA_Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
