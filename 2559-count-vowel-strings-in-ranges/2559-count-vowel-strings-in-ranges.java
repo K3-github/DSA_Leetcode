@@ -1,11 +1,11 @@
 class Solution {
+    private boolean isVowel(char ch){
+        return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
+    }
     private boolean check(String str){
         int n=str.length();
         char f=str.charAt(0),l=str.charAt(n-1);
-        if((f=='a' || f=='e' || f=='i' || f=='o' || f=='u') &&
-        ((l=='a' || l=='e' || l=='i' || l=='o' || l=='u'))
-        ) return true;
-        return false;
+        return isVowel(f) && isVowel(l);
     }
     public int[] vowelStrings(String[] words, int[][] queries) {
         int n=words.length;
