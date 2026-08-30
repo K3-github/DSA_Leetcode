@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/K3-github/DSA_Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/K3-github/DSA_Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/K3-github/DSA_Leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2607-make-k-subarray-sums-equal](https://github.com/K3-github/DSA_Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -1123,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2424-longest-uploaded-prefix](https://github.com/K3-github/DSA_Leetcode/tree/master/2424-longest-uploaded-prefix) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/K3-github/DSA_Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/K3-github/DSA_Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/K3-github/DSA_Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/K3-github/DSA_Leetcode/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -1427,6 +1429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/K3-github/DSA_Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/K3-github/DSA_Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/K3-github/DSA_Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2607-make-k-subarray-sums-equal](https://github.com/K3-github/DSA_Leetcode/tree/master/2607-make-k-subarray-sums-equal) |
 | [2708-maximum-strength-of-a-group](https://github.com/K3-github/DSA_Leetcode/tree/master/2708-maximum-strength-of-a-group) |
 | [2713-maximum-strictly-increasing-cells-in-a-matrix](https://github.com/K3-github/DSA_Leetcode/tree/master/2713-maximum-strictly-increasing-cells-in-a-matrix) |
@@ -1730,6 +1733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-count-vowel-strings-in-ranges](https://github.com/K3-github/DSA_Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/K3-github/DSA_Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/K3-github/DSA_Leetcode/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/K3-github/DSA_Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3312-sorted-gcd-pair-queries](https://github.com/K3-github/DSA_Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3500-minimum-cost-to-divide-array-into-subarrays](https://github.com/K3-github/DSA_Leetcode/tree/master/3500-minimum-cost-to-divide-array-into-subarrays) |
