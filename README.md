@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/K3-github/DSA_Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0911-online-election](https://github.com/K3-github/DSA_Leetcode/tree/master/0911-online-election) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/K3-github/DSA_Leetcode/tree/master/0915-partition-array-into-disjoint-intervals) |
+| [0916-word-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/0916-word-subsets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/K3-github/DSA_Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0923-3sum-with-multiplicity](https://github.com/K3-github/DSA_Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -852,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/K3-github/DSA_Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/K3-github/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0911-online-election](https://github.com/K3-github/DSA_Leetcode/tree/master/0911-online-election) |
+| [0916-word-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/0916-word-subsets) |
 | [0923-3sum-with-multiplicity](https://github.com/K3-github/DSA_Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/K3-github/DSA_Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -973,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/K3-github/DSA_Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0838-push-dominoes](https://github.com/K3-github/DSA_Leetcode/tree/master/0838-push-dominoes) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/K3-github/DSA_Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0916-word-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/0916-word-subsets) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/K3-github/DSA_Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0981-time-based-key-value-store](https://github.com/K3-github/DSA_Leetcode/tree/master/0981-time-based-key-value-store) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/K3-github/DSA_Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
