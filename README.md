@@ -720,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/K3-github/DSA_Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/K3-github/DSA_Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/K3-github/DSA_Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/K3-github/DSA_Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/K3-github/DSA_Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1012-numbers-with-repeated-digits](https://github.com/K3-github/DSA_Leetcode/tree/master/1012-numbers-with-repeated-digits) |
@@ -977,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/K3-github/DSA_Leetcode/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0916-word-subsets](https://github.com/K3-github/DSA_Leetcode/tree/master/0916-word-subsets) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/K3-github/DSA_Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0940-distinct-subsequences-ii](https://github.com/K3-github/DSA_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/K3-github/DSA_Leetcode/tree/master/0981-time-based-key-value-store) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/K3-github/DSA_Leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0990-satisfiability-of-equality-equations](https://github.com/K3-github/DSA_Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
